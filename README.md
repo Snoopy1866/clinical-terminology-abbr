@@ -19,8 +19,10 @@ Collection of clinical research terminology abbreviation
 | AST        | Aspartate Aminotransferase                                                                             | 谷草转氨酶                             |
 | ATC        | Anatomical Therapeutic Chemical                                                                        | 解剖、治疗、化学                       |
 | BUN        | Blood Urea Nitrogen                                                                                    | 尿素氮                                 |
+| CABG       | Coronary Artery Bypass Grafting                                                                        | 冠状动脉旁路移植术                     |
 | CBCT       | Cone beam CT                                                                                           | 锥形束 CT                              |
 | Ccr        | Endogenous Creatinine Clearance Rate                                                                   | 肌酐清除率                             |
+| CCS        | Canadian Cardiovascular Society                                                                        | 加拿大心血管学会                       |
 | CFDA       | China Food and Drug Administration                                                                     | 国家食品药品监督管理总局               |
 | CH         | Chordoma                                                                                               | 脊索瘤                                 |
 | CI         | Confidence Interval                                                                                    | 置信区间                               |
@@ -32,6 +34,7 @@ Collection of clinical research terminology abbreviation
 | CRA        | Clinical Research Associate                                                                            | 临床监查员                             |
 | CRF        | Case Report Form                                                                                       | 病例报告表                             |
 | CS         | Clinically Significant                                                                                 | 有临床意义                             |
+| CSWT       | Cardiac Shock Wave Therapy                                                                             | 心脏体外冲击波治疗                     |
 | Ct         | Cycle Threshold                                                                                        | 循环阈值                               |
 | CT         | Computed Tomography                                                                                    | 计算机断层扫描                         |
 | CTCAE      | Common Terminology Criteria for Adverse Events                                                         | 不良事件通用术语标准                   |
@@ -52,6 +55,7 @@ Collection of clinical research terminology abbreviation
 | EDC        | Electronic Data Capture System                                                                         | 电子数据采集系统                       |
 | EHRA       | European Heart Rhythm Association                                                                      | 欧洲心律协会                           |
 | ERY        | Erythrocyte                                                                                            | 尿红细胞计数                           |
+| ESMR       | Extracorporeal Shockwave Myocardial Revascularization                                                  | 体外冲击波心肌再血管化治疗             |
 | FAS        | Full Analysis Set                                                                                      | 全分析集                               |
 | FFPE       | Formaldehyde Fixed-Paraffin Embedded                                                                   | 经中性福尔马林固定的石蜡包埋           |
 | FIB        | Fibrinogen                                                                                             | 纤维蛋白原                             |
@@ -82,7 +86,9 @@ Collection of clinical research terminology abbreviation
 | LGG        | Low-Grade Glioma                                                                                       | 低级别胶质瘤                           |
 | LLT        | Lowest Level Terms                                                                                     | 低位语                                 |
 | LOCF       | Last Observation Carried Forward                                                                       | 末次观测值结转                         |
+| LVEDV      | Left Ventricular End-diastolic Volume                                                                  | 舒张末期容积                           |
 | LVEF       | Left Ventricular Ejection Fraction                                                                     | 左心室射血分数                         |
+| LVESV      | Left Ventricular End-systolic Volume                                                                   | 收缩末期容积                           |
 | Mb         | Myoglobin                                                                                              | 肌红蛋白                               |
 | MedDRA     | Medical Dictionary for Regulatory Activities                                                           | 监管活动医学词典                       |
 | MRI        | Magnetic Resonance Imaging                                                                             | 磁共振成像                             |
@@ -100,6 +106,7 @@ Collection of clinical research terminology abbreviation
 | ORR        | Objective Response Rate                                                                                | 客观缓解率                             |
 | OS         | Overall Survival                                                                                       | 总生存期                               |
 | PBS        | Pencil Beam Scanning                                                                                   | 笔形束扫描                             |
+| PCI        | Percutaneous Coronary Intervention                                                                     | 经皮冠状动脉介入治疗                   |
 | PCR        | Polymerase Chain Reaction                                                                              | 聚合酶链式反应                         |
 | PD         | Progressive Disease                                                                                    | 疾病进展                               |
 | PET        | Positron Emission Tomography                                                                           | 正电子发射断层扫描                     |
@@ -146,6 +153,7 @@ Collection of clinical research terminology abbreviation
 | TV         | Treated Volume                                                                                         | 治疗区                                 |
 | ULN        | Upper Limit of Normal                                                                                  | 正常值上限                             |
 | VAS        | Visual Analogue Scale                                                                                  | 视觉模拟评分法                         |
+| VEGF       | Vascular Endothelial Growth Factor                                                                     | 血管内皮生长因子                       |
 | VMAT       | Volumetric-Modulated Arc Therapy                                                                       | 容积旋转调强放疗                       |
 | WBC        | White Blood Cell                                                                                       | 白细胞                                 |
 | WHO        | World Health Organization                                                                              | 世界卫生组织                           |
