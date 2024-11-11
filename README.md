@@ -12,6 +12,7 @@ Collection of clinical research terminology abbreviation
 | AE         | Adverse Events                                                                                         | 不良事件                               |
 | AE         | Adverse Event                                                                                          | 不良事件                               |
 | AF         | Atrial Fibrillation                                                                                    | 心房颤动                               |
+| AIMS       | Alberta Infant Motor Scale                                                                             | Alberta 婴儿运动量表                   |
 | AJCC       | American Joint Committee on Cancer                                                                     | 美国癌症联合委员会                     |
 | ALB        | Serum Albumin                                                                                          | 血清白蛋白                             |
 | ALT        | Alanine Aminotransferase                                                                               | 谷丙转氨酶                             |
@@ -46,8 +47,11 @@ Collection of clinical research terminology abbreviation
 | DNA        | Deoxyribonucleic Acid                                                                                  | 脱氧核糖核酸                           |
 | DOR        | Duration of Response                                                                                   | 持续缓解时间                           |
 | DRR        | Digitally Reconstruction Radiograph                                                                    | 数字重建的射线影像                     |
+| DTI        | Diffusion Tensor Imaging                                                                               | 弥散张量成像                           |
+| DTT        | Diffusion Tensor Tractography                                                                          | 弥散张量纤维束成像                     |
 | DVH        | Dose Volume Histogram                                                                                  | 体积剂量直方图                         |
 | DVP        | Data Validation Plan                                                                                   | 数据核查计划                           |
+| DWI        | Diffusion Weighted Imaging                                                                             | 弥散加权技术                           |
 | EAS        | Evaluable Analysis Set                                                                                 | 可评估分析集                           |
 | EC         | Ethics Committee                                                                                       | 伦理委员会                             |
 | ECOG       | Eastern Cooperative Oncology Group                                                                     | 美国东部肿瘤协作组                     |
@@ -64,11 +68,14 @@ Collection of clinical research terminology abbreviation
 | GLU        | Glucose                                                                                                | 尿糖                                   |
 | GTV        | Gross Tumor Volume                                                                                     | 大体肿瘤区                             |
 | HA         | Hyaluronic Acid                                                                                        | 透明质酸                               |
+| HBO        | Hyperbaric Oxygen                                                                                      | 高压氧                                 |
 | HBV        | Hepatitis Virus B                                                                                      | 乙型肝炎病毒                           |
 | HCG        | Human Chorionic Gonadotropin                                                                           | 血妊娠试验                             |
 | HCT        | Hematocrit                                                                                             | 血细胞比容                             |
 | HCV        | Hepatitis Virus C                                                                                      | 丙型肝炎病毒                           |
 | Hgb        | Hemoglobin                                                                                             | 血红蛋白                               |
+| HIE        | Hypoxic-ischemia Encephalopathy                                                                        | 重度缺氧缺血性脑病                     |
+| HINE       | Hammersmith Infant Neurological Examination                                                            | Hammersmith 婴幼儿神经学检查           |
 | HIS        | Hospital Information System                                                                            | 计算机信息系统                         |
 | HIV        | Human Immunodeficiency Virus                                                                           | 人类免疫缺陷病毒                       |
 | HLGT       | High Level Group Terms                                                                                 | 高位组语                               |
@@ -77,6 +84,7 @@ Collection of clinical research terminology abbreviation
 | ICF        | Informed Consent Form                                                                                  | 知情同意书                             |
 | ICH        | The International Council for Harmonisation of Technical Requirement for Pharmaceuticals for Human Use | 人用药品技术要求国际协调理事会         |
 | IGRT       | Image-Guided Radiation Therapy                                                                         | 影像引导放射治疗                       |
+| IHRCP      | Infants at High Risk of Cerebral Palsy                                                                 | 脑性瘫痪高危儿                         |
 | IMPT       | Intensity Modulated Proton Therapy                                                                     | 适形调强质子治疗                       |
 | IMRT       | Intensity Modulated Radiation Therapy                                                                  | 适形调强放射治疗                       |
 | INR        | International Normalized Ratio                                                                         | 国际标准化比值                         |
@@ -92,6 +100,7 @@ Collection of clinical research terminology abbreviation
 | Mb         | Myoglobin                                                                                              | 肌红蛋白                               |
 | MedDRA     | Medical Dictionary for Regulatory Activities                                                           | 监管活动医学词典                       |
 | MRI        | Magnetic Resonance Imaging                                                                             | 磁共振成像                             |
+| NBNA       | Neonatal Behavioral Neurological Assessment                                                            | 新生儿神经行为测定                     |
 | NCS        | Not Clinically Significant                                                                             | 无临床意义                             |
 | NEUT       | Neutrophil                                                                                             | 中性粒细胞                             |
 | NLFs       | Nasolabial Folds                                                                                       | 鼻唇沟皱纹                             |
@@ -111,6 +120,7 @@ Collection of clinical research terminology abbreviation
 | PD         | Progressive Disease                                                                                    | 疾病进展                               |
 | PET        | Positron Emission Tomography                                                                           | 正电子发射断层扫描                     |
 | PFS        | Progression-free Survival                                                                              | 无进展生存期                           |
+| PIVH       | Periventricular-intraventricular Hemorrhage                                                            | 脑室周围-脑室内出血                    |
 | PLT        | Platelet                                                                                               | 血小板                                 |
 | PN         | Preferred Name                                                                                         | 首选名称                               |
 | PPS        | Per-Protocol Set                                                                                       | 符合方案集                             |
@@ -145,6 +155,7 @@ Collection of clinical research terminology abbreviation
 | SOP        | Standard Operating Procedure                                                                           | 标准操作规程                           |
 | SS         | Safety Set                                                                                             | 安全性数据集                           |
 | STB        | Serum Total Bilirubin                                                                                  | 血清总胆红素                           |
+| SWI        | Susceptibility Weighted Imaging                                                                        | 磁敏感加权技术                         |
 | TEAE       | Treatment Emergent Adverse Event                                                                       | 治疗期间不良事件                       |
 | TEE        | Transesophageal Echocardiography                                                                       | 经食管超声心动图                       |
 | TNM        | Tumor, Node, Metastasis                                                                                | 肿瘤、淋巴结、转移                     |
