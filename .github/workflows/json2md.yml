@@ -40,4 +40,5 @@ jobs:
         run: |
           git add .
           git commit -m "fix: auto format abbr.md"
+          git pull --rebase origin ${{ github.head_ref }}
           git push origin HEAD:${{ github.head_ref }}
