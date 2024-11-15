@@ -298,21 +298,21 @@
   {
     "name": "DVH",
     "content": {
-      "full_name": "  Dose Volume Histogram",
+      "full_name": "Dose Volume Histogram",
       "description": "体积剂量直方图"
     }
   },
   {
     "name": "DVP",
     "content": {
-      "full_name": "Data Validation Plan  ",
+      "full_name": "Data Validation Plan",
       "description": "数据核查计划"
     }
   },
   {
     "name": "DWI",
     "content": {
-      "full_name": "Diffusion Weighted Imaging  ",
+      "full_name": "Diffusion Weighted Imaging",
       "description": "弥散加权技术"
     }
   }
