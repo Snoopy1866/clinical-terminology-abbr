@@ -8,18 +8,6 @@ Click [abbreviation](abbr.md) to look up.
 
 | 缩略语     | 英文全拼                                                                                               | 中文翻译                               |
 | ---------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------- |
-| CCS        | Canadian Cardiovascular Society                                                                        | 加拿大心血管学会                       |
-| CFDA       | China Food and Drug Administration                                                                     | 国家食品药品监督管理总局               |
-| CH         | Chordoma                                                                                               | 脊索瘤                                 |
-| CI         | Confidence Interval                                                                                    | 置信区间                               |
-| CK-MB      | Creatine Kinase Isoenzymes-MB                                                                          | 肌酸激酶同工酶                         |
-| CMH        | Cochran Mantel Haenszel                                                                                | Cochran-Mantel-Haenszel 检验           |
-| CNS5       | The fifth edition of the WHO Classification of Tumors of the Central Nervous System                    | 第五版世界卫生组织中枢神经系统肿瘤分类 |
-| CP         | Child-Pugh                                                                                             | 肝功能分级                             |
-| CR         | Complete Response                                                                                      | 完全缓解                               |
-| CRA        | Clinical Research Associate                                                                            | 临床监查员                             |
-| CRF        | Case Report Form                                                                                       | 病例报告表                             |
-| CS         | Clinically Significant                                                                                 | 有临床意义                             |
 | CSWT       | Cardiac Shock Wave Therapy                                                                             | 心脏体外冲击波治疗                     |
 | Ct         | Cycle Threshold                                                                                        | 循环阈值                               |
 | CT         | Computed Tomography                                                                                    | 计算机断层扫描                         |

@@ -9,7 +9,7 @@
   {
     "name": "3DCRT",
     "content": {
-      "full_name": "3-Dimensional Conformal Radiation Therapy ",
+      "full_name": "3-Dimensional Conformal Radiation Therapy",
       "description": "三维适形放射治疗"
     }
   },
@@ -109,8 +109,92 @@
   {
     "name": "Ccr",
     "content": {
-      "full_name": "Endogenous Creatinine Clearance Rate ",
+      "full_name": "Endogenous Creatinine Clearance Rate",
       "description": "肌酐清除率"
+    }
+  },
+  {
+    "name": "CCS",
+    "content": {
+      "full_name": "Canadian Cardiovascular Society",
+      "description": "加拿大心血管学会"
+    }
+  },
+  {
+    "name": "CFDA",
+    "content": {
+      "full_name": "China Food and Drug Administration",
+      "description": "国家食品药品监督管理总局"
+    }
+  },
+  {
+    "name": "CH",
+    "content": {
+      "full_name": "Chordoma",
+      "description": "脊索瘤"
+    }
+  },
+  {
+    "name": "CI",
+    "content": {
+      "full_name": "Confidence Interval",
+      "description": "置信区间"
+    }
+  },
+  {
+    "name": "CK-MB",
+    "content": {
+      "full_name": "Creatine Kinase Isoenzymes-MB",
+      "description": "肌酸激酶同工酶"
+    }
+  },
+  {
+    "name": "CMH",
+    "content": {
+      "full_name": "Cochran Mantel Haenszel",
+      "description": "Cochran-Mantel-Haenszel 检验"
+    }
+  },
+  {
+    "name": "CNS5",
+    "content": {
+      "full_name": "The fifth edition of the WHO Classification of Tumors of the Central Nervous System",
+      "description": "第五版世界卫生组织中枢神经系统肿瘤分类"
+    }
+  },
+  {
+    "name": "CP",
+    "content": {
+      "full_name": "Child-Pugh",
+      "description": "肝功能分级"
+    }
+  },
+  {
+    "name": "CR",
+    "content": {
+      "full_name": "Complete Response",
+      "description": "完全缓解"
+    }
+  },
+  {
+    "name": "CRA",
+    "content": {
+      "full_name": "Clinical Research Associate",
+      "description": "临床监查员"
+    }
+  },
+  {
+    "name": "CRF",
+    "content": {
+      "full_name": "Case Report Form",
+      "description": "病例报告表"
+    }
+  },
+  {
+    "name": "CS",
+    "content": {
+      "full_name": "Clinically Significant",
+      "description": "有临床意义"
     }
   }
 ]
