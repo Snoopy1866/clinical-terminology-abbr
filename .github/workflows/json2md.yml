@@ -40,4 +40,4 @@ jobs:
         run: |
           git add .
           git commit -m "fix: auto format abbr.md"
-          git push
+          git push origin HEAD:refs/pull/${{ github.event.pull_request.number }}/head
