@@ -36,7 +36,13 @@ jobs:
           git config --global user.name  "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Check for changes
+        id: git_diff
+        run: |
+          git diff --exit-code || echo "has_changes=true" >> $GITHUB_ENV
+
       - name: Commit changes
+        if: env.has_changes == 'true'
         run: |
           git add .
           git commit -m "fix: auto format abbr.md"
