@@ -46,5 +46,19 @@
       "full_name": "Alberta Infant Motor Scale",
       "description": "Alberta 婴儿运动量表"
     }
+  },
+  {
+    "name": "AJCC",
+    "content": {
+      "full_name": "American Joint Committee on Cancer",
+      "description": "美国癌症联合委员会"
+    }
+  },
+  {
+    "name": "ALB",
+    "content": {
+      "full_name": "Serum Albumin",
+      "description": "血清白蛋白"
+    }
   }
 ]

@@ -6,8 +6,6 @@ Collection of clinical research terminology abbreviation
 
 | 缩略语     | 英文全拼                                                                                               | 中文翻译                               |
 | ---------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------- |
-| AJCC       | American Joint Committee on Cancer                                                                     | 美国癌症联合委员会                     |
-| ALB        | Serum Albumin                                                                                          | 血清白蛋白                             |
 | ALT        | Alanine Aminotransferase                                                                               | 谷丙转氨酶                             |
 | APTT       | Activated Partial Thromboplastin Time                                                                  | 活化部分凝血活酶时间                   |
 | AST        | Aspartate Aminotransferase                                                                             | 谷草转氨酶                             |
