@@ -28,7 +28,7 @@ jobs:
 
       - name: Format md files
         run: |
-          npm install prettier
+          npm install
           npx prettier --write abbr.md
 
       - name: Configure Git
