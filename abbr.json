@@ -196,5 +196,124 @@
       "full_name": "Clinically Significant",
       "description": "有临床意义"
     }
+  },
+  {
+    "name": "CSWT",
+    "content": {
+      "full_name": "Cardiac Shock Wave Therapy",
+      "description": "心脏体外冲击波治疗"
+    }
+  },
+  {
+    "name": "Ct",
+    "content": {
+      "full_name": "Cycle Threshold",
+      "description": "循环阈值"
+    }
+  },
+  {
+    "name": "CT",
+    "content": {
+      "full_name": "Computed Tomography",
+      "description": "计算机断层扫描"
+    }
+  },
+  {
+    "name": "CTCAE",
+    "content": {
+      "full_name": "Common Terminology Criteria for Adverse Events",
+      "description": "不良事件通用术语标准"
+    }
+  },
+  {
+    "name": "cTn",
+    "content": {
+      "full_name": "Cardiac Troponin",
+      "description": "肌钙蛋白"
+    }
+  },
+  {
+    "name": "CTV",
+    "content": {
+      "full_name": "Clinical Target Volume",
+      "description": "临床靶区"
+    }
+  },
+  {
+    "name": "DART",
+    "content": {
+      "full_name": "Dynamic Adaptive Radiation Therapy",
+      "description": "动态适应的放疗技术"
+    }
+  },
+  {
+    "name": "DCR",
+    "content": {
+      "full_name": "Disease Control Rate",
+      "description": "肿瘤疾病控制率"
+    }
+  },
+  {
+    "name": "DIPS",
+    "content": {
+      "full_name": "Digital Imaging Positioning System",
+      "description": "数字化影像定位系统"
+    }
+  },
+  {
+    "name": "DNA",
+    "content": {
+      "full_name": "Deoxyribonucleic Acid",
+      "description": "脱氧核糖核酸"
+    }
+  },
+  {
+    "name": "DOR",
+    "content": {
+      "full_name": "Duration of Response",
+      "description": "持续缓解时间"
+    }
+  },
+  {
+    "name": "DRR",
+    "content": {
+      "full_name": "Digitally Reconstruction Radiograph",
+      "description": "数字重建的射线影像"
+    }
+  },
+  {
+    "name": "DTI",
+    "content": {
+      "full_name": "Diffusion Tensor Imaging",
+      "description": "弥散张量成像"
+    }
+  },
+  {
+    "name": "DTT",
+    "content": {
+      "full_name": "Diffusion Tensor Tractography",
+      "description": "弥散张量纤维束成像"
+    }
+  },
+  {
+    "name": "DVH",
+    "content": {
+      "full_name": "Dose Volume Histogram",
+      "description": "体积剂量直方图"
+    }
+  },
+  {
+    "name": "DVP",
+    "content": {
+      "full_name": "Data Validation Plan",
+      "description": "数据核查计划"
+    }
+  },
+  {
+    "name": "DWI",
+    "content": {
+      "full_name": "Diffusion Weighted Imaging",
+      "description": "弥散加权技术"
+    }
   }
 ]
