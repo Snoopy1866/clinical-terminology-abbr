@@ -2,17 +2,12 @@
 
 Collection of clinical research terminology abbreviation
 
+Click [abbreviation](abbr.md) to look up.
+
 # abbr list
 
 | 缩略语     | 英文全拼                                                                                               | 中文翻译                               |
 | ---------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------- |
-| APTT       | Activated Partial Thromboplastin Time                                                                  | 活化部分凝血活酶时间                   |
-| AST        | Aspartate Aminotransferase                                                                             | 谷草转氨酶                             |
-| ATC        | Anatomical Therapeutic Chemical                                                                        | 解剖、治疗、化学                       |
-| BUN        | Blood Urea Nitrogen                                                                                    | 尿素氮                                 |
-| CABG       | Coronary Artery Bypass Grafting                                                                        | 冠状动脉旁路移植术                     |
-| CBCT       | Cone beam CT                                                                                           | 锥形束 CT                              |
-| Ccr        | Endogenous Creatinine Clearance Rate                                                                   | 肌酐清除率                             |
 | CCS        | Canadian Cardiovascular Society                                                                        | 加拿大心血管学会                       |
 | CFDA       | China Food and Drug Administration                                                                     | 国家食品药品监督管理总局               |
 | CH         | Chordoma                                                                                               | 脊索瘤                                 |
