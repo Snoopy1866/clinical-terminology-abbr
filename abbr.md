@@ -11,3 +11,4 @@
 | AIMS      | Alberta Infant Motor Scale                | Alberta 婴儿运动量表 |
 | AJCC      | American Joint Committee on Cancer        | 美国癌症联合委员会   |
 | ALB       | Serum Albumin                             | 血清白蛋白           |
+| ALT       | Alanine Aminotransferase                  | 谷丙转氨酶           |
