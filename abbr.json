@@ -17,11 +17,7 @@
     "name": "ADL",
     "content": [
       {
-        "full_name": "Alberta Infant Motor Scale",
-        "description": "急性播散性脑脊髓炎"
-      },
-      {
-        "full_name": "Bctivities of Daily Living",
+        "full_name": "Activities of Daily Living",
         "description": "日常活动"
       }
     ]
