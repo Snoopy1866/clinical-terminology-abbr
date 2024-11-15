@@ -3,8 +3,8 @@ import json
 
 class Content:
     def __init__(self, full_name: str, description: str) -> None:
-        self.full_name = full_name
-        self.description = description
+        self.full_name = full_name.strip()
+        self.description = description.strip()
 
     def __repr__(self) -> str:
         return f"Content({self.name}, {self.description})"
@@ -12,7 +12,7 @@ class Content:
 
 class Abbr:
     def __init__(self, name: str, content: Content | list[Content]) -> None:
-        self.name = name
+        self.name = name.strip()
         self.content = content
 
     def __repr__(self) -> str:
@@ -75,8 +75,8 @@ if __name__ == "__main__":
     # 排序
     for abbr in abbr_list:
         if isinstance(abbr.content, list):
-            abbr.content.sort(key=lambda x: x.full_name)
-    abbr_list.sort(key=lambda x: x.name)
+            abbr.content.sort(key=lambda x: x.full_name.lower())
+    abbr_list.sort(key=lambda x: x.name.lower())
 
     # 回写 json 文件
     with open("abbr.json", "w+", encoding="utf-8") as f:
