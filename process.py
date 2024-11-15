@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
     # 回写 json 文件
     with open("abbr.json", "w+", encoding="utf-8") as f:
-        json.dump(abbr_list, f, cls=AbbrEncoder, ensure_ascii=False, indent=4)
+        json.dump(abbr_list, f, cls=AbbrEncoder, ensure_ascii=False, indent=2)
 
     # 输出 markdown 文件
     with open("abbr.md", "w+", encoding="utf-8") as f:
