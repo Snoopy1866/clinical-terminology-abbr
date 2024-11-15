@@ -12,3 +12,10 @@
 | AJCC      | American Joint Committee on Cancer        | 美国癌症联合委员会   |
 | ALB       | Serum Albumin                             | 血清白蛋白           |
 | ALT       | Alanine Aminotransferase                  | 谷丙转氨酶           |
+| APTT      | Activated Partial Thromboplastin Time     | 活化部分凝血活酶时间 |
+| AST       | Aspartate Aminotransferase                | 谷草转氨酶           |
+| ATC       | Anatomical Therapeutic Chemical           | 解剖、治疗、化学     |
+| BUN       | Blood Urea Nitrogen                       | 尿素氮               |
+| CABG      | Coronary Artery Bypass Grafting           | 冠状动脉旁路移植术   |
+| CBCT      | Cone beam CT                              | 锥形束 CT            |
+| Ccr       | Endogenous Creatinine Clearance Rate      | 肌酐清除率           |
