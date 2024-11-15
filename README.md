@@ -6,7 +6,6 @@ Collection of clinical research terminology abbreviation
 
 | 缩略语     | 英文全拼                                                                                               | 中文翻译                               |
 | ---------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------- |
-| ALT        | Alanine Aminotransferase                                                                               | 谷丙转氨酶                             |
 | APTT       | Activated Partial Thromboplastin Time                                                                  | 活化部分凝血活酶时间                   |
 | AST        | Aspartate Aminotransferase                                                                             | 谷草转氨酶                             |
 | ATC        | Anatomical Therapeutic Chemical                                                                        | 解剖、治疗、化学                       |

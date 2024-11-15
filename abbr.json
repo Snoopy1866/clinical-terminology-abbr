@@ -1,64 +1,71 @@
 [
-    {
-        "name": "2019-nCoV",
-        "content": {
-            "full_name": "2019-Novel Coronavirus",
-            "description": "新型冠状病毒"
-        }
-    },
-    {
-        "name": "3DCRT",
-        "content": {
-            "full_name": "3-Dimensional Conformal Radiation Therapy ",
-            "description": "三维适形放射治疗"
-        }
-    },
-    {
-        "name": "ADL",
-        "content": [
-            {
-                "full_name": "Alberta Infant Motor Scale",
-                "description": "急性播散性脑脊髓炎"
-            },
-            {
-                "full_name": "Bctivities of Daily Living",
-                "description": "日常活动"
-            }
-        ]
-    },
-    {
-        "name": "AE",
-        "content": {
-            "full_name": "Adverse Events",
-            "description": "不良事件"
-        }
-    },
-    {
-        "name": "AF",
-        "content": {
-            "full_name": "Atrial Fibrillation",
-            "description": "心房颤动"
-        }
-    },
-    {
-        "name": "AIMS",
-        "content": {
-            "full_name": "Alberta Infant Motor Scale",
-            "description": "Alberta 婴儿运动量表"
-        }
-    },
-    {
-        "name": "AJCC",
-        "content": {
-            "full_name": "American Joint Committee on Cancer",
-            "description": "美国癌症联合委员会"
-        }
-    },
-    {
-        "name": "ALB",
-        "content": {
-            "full_name": "Serum Albumin",
-            "description": "血清白蛋白"
-        }
+  {
+    "name": "2019-nCoV",
+    "content": {
+      "full_name": "2019-Novel Coronavirus",
+      "description": "新型冠状病毒"
     }
+  },
+  {
+    "name": "3DCRT",
+    "content": {
+      "full_name": "3-Dimensional Conformal Radiation Therapy ",
+      "description": "三维适形放射治疗"
+    }
+  },
+  {
+    "name": "ADL",
+    "content": [
+      {
+        "full_name": "Alberta Infant Motor Scale",
+        "description": "急性播散性脑脊髓炎"
+      },
+      {
+        "full_name": "Bctivities of Daily Living",
+        "description": "日常活动"
+      }
+    ]
+  },
+  {
+    "name": "AE",
+    "content": {
+      "full_name": "Adverse Events",
+      "description": "不良事件"
+    }
+  },
+  {
+    "name": "AF",
+    "content": {
+      "full_name": "Atrial Fibrillation",
+      "description": "心房颤动"
+    }
+  },
+  {
+    "name": "AIMS",
+    "content": {
+      "full_name": "Alberta Infant Motor Scale",
+      "description": "Alberta 婴儿运动量表"
+    }
+  },
+  {
+    "name": "AJCC",
+    "content": {
+      "full_name": "American Joint Committee on Cancer",
+      "description": "美国癌症联合委员会"
+    }
+  },
+  {
+    "name": "ALB",
+    "content": {
+      "full_name": "Serum Albumin",
+      "description": "血清白蛋白"
+    }
+  },
+  {
+    "name": "ALT",
+    "content": {
+      "full_name": "Alanine Aminotransferase",
+      "description": "谷丙转氨酶"
+    }
+  }
 ]
