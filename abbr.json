@@ -315,5 +315,89 @@
       "full_name": "Diffusion Weighted Imaging",
       "description": "弥散加权技术"
     }
+  },
+  {
+    "name": "EAS",
+    "content": {
+      "full_name": "Evaluable Analysis Set ",
+      "description": "可评估分析集"
+    }
+  },
+  {
+    "name": "EC",
+    "content": {
+      "full_name": "Ethics Committee ",
+      "description": "伦理委员会"
+    }
+  },
+  {
+    "name": "ECOG",
+    "content": {
+      "full_name": "Eastern Cooperative Oncology Group",
+      "description": "美国东部肿瘤协作组"
+    }
+  },
+  {
+    "name": "eCRF",
+    "content": {
+      "full_name": "Electronic Case Report Form",
+      "description": "电子病例报告表"
+    }
+  },
+  {
+    "name": "EDC",
+    "content": {
+      "full_name": "Electronic Data Capture System",
+      "description": "电子数据采集系统"
+    }
+  },
+  {
+    "name": "EHRA",
+    "content": {
+      "full_name": "European Heart Rhythm Association",
+      "description": "欧洲心律协会"
+    }
+  },
+  {
+    "name": "ERY",
+    "content": {
+      "full_name": "Erythrocyte",
+      "description": "尿红细胞计数"
+    }
+  },
+  {
+    "name": "ESMR",
+    "content": {
+      "full_name": "Extracorporeal Shockwave Myocardial Revascularization",
+      "description": "体外冲击波心肌再血管化治疗"
+    }
+  },
+  {
+    "name": "FAS",
+    "content": {
+      "full_name": "Full Analysis Set",
+      "description": "全分析集"
+    }
+  },
+  {
+    "name": "FFPE",
+    "content": {
+      "full_name": "Formaldehyde Fixed-Paraffin Embedded",
+      "description": "经中性福尔马林固定的石蜡包埋"
+    }
+  },
+  {
+    "name": "FIB",
+    "content": {
+      "full_name": "Fibrinogen",
+      "description": "纤维蛋白原"
+    }
+  },
+  {
+    "name": "FPG",
+    "content": {
+      "full_name": "Fasting Plasma Glucose",
+      "description": "空腹血糖"
+    }
   }
 ]
