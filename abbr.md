@@ -59,3 +59,8 @@
 | FFPE      | Formaldehyde Fixed-Paraffin Embedded                                                | 经中性福尔马林固定的石蜡包埋           |
 | FIB       | Fibrinogen                                                                          | 纤维蛋白原                             |
 | FPG       | Fasting Plasma Glucose                                                              | 空腹血糖                               |
+| LCR       | Local Control                                                                       | 局部控制率                             |
+| MDT       | Multidisciplinary Treatment                                                         | 多学科综合治疗                         |
+| RECIST    | Response Evaluation Criteria in Solid Tumors                                        | 实体肿瘤的疗效评价标准                 |
+| ROS       | Reactive Oxygen Species                                                             | 活性氧                                 |
+| VMAT      | Volumetric-Modulated Arc Therapy                                                    | 容积旋转调强放疗                       |

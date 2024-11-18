@@ -399,5 +399,40 @@
       "full_name": "Fasting Plasma Glucose",
       "description": "空腹血糖"
     }
+  },
+  {
+    "name": "LCR",
+    "content": {
+      "full_name": "Local Control",
+      "description": "局部控制率"
+    }
+  },
+  {
+    "name": "MDT",
+    "content": {
+      "full_name": "Multidisciplinary Treatment",
+      "description": "多学科综合治疗"
+    }
+  },
+  {
+    "name": "RECIST",
+    "content": {
+      "full_name": "Response Evaluation Criteria in Solid Tumors",
+      "description": "实体肿瘤的疗效评价标准"
+    }
+  },
+  {
+    "name": "ROS",
+    "content": {
+      "full_name": "Reactive Oxygen Species",
+      "description": "活性氧"
+    }
+  },
+  {
+    "name": "VMAT",
+    "content": {
+      "full_name": "Volumetric-Modulated Arc Therapy",
+      "description": "容积旋转调强放疗"
+    }
   }
 ]
