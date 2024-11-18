@@ -47,3 +47,15 @@
 | DVH       | Dose Volume Histogram                                                               | 体积剂量直方图                         |
 | DVP       | Data Validation Plan                                                                | 数据核查计划                           |
 | DWI       | Diffusion Weighted Imaging                                                          | 弥散加权技术                           |
+| EAS       | Evaluable Analysis Set                                                              | 可评估分析集                           |
+| EC        | Ethics Committee                                                                    | 伦理委员会                             |
+| ECOG      | Eastern Cooperative Oncology Group                                                  | 美国东部肿瘤协作组                     |
+| eCRF      | Electronic Case Report Form                                                         | 电子病例报告表                         |
+| EDC       | Electronic Data Capture System                                                      | 电子数据采集系统                       |
+| EHRA      | European Heart Rhythm Association                                                   | 欧洲心律协会                           |
+| ERY       | Erythrocyte                                                                         | 尿红细胞计数                           |
+| ESMR      | Extracorporeal Shockwave Myocardial Revascularization                               | 体外冲击波心肌再血管化治疗             |
+| FAS       | Full Analysis Set                                                                   | 全分析集                               |
+| FFPE      | Formaldehyde Fixed-Paraffin Embedded                                                | 经中性福尔马林固定的石蜡包埋           |
+| FIB       | Fibrinogen                                                                          | 纤维蛋白原                             |
+| FPG       | Fasting Plasma Glucose                                                              | 空腹血糖                               |
