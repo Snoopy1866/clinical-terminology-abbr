@@ -7,7 +7,7 @@ class Content:
         self.description = description.strip()
 
     def __repr__(self) -> str:
-        return f"Content({self.name}, {self.description})"
+        return f"Content({self.full_name}, {self.description})"
 
 
 class Abbr:
