@@ -67,10 +67,23 @@ def json2md(abbr_list: list[Abbr]) -> str:
     return md
 
 
+# 检查是否有重复的缩写词
+def check_duplicate(abbr_list: list[Abbr]) -> None:
+    abbr_name_list = [abbr.name for abbr in abbr_list]
+    duplicates = set(
+        [name for name in abbr_name_list if abbr_name_list.count(name) > 1]
+    )
+    if duplicates:
+        raise ValueError(f"Duplicate abbreviation names found: {', '.join(duplicates)}")
+
+
 if __name__ == "__main__":
     # 读取 json 文件
     with open("abbr.json", "r+", encoding="utf-8") as f:
         abbr_list: list[Abbr] = json.load(f, cls=AbbrDecoder)
+
+    # 检查重复缩写词
+    check_duplicate(abbr_list)
 
     # 排序
     for abbr in abbr_list:

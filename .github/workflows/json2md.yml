@@ -4,10 +4,6 @@ on:
   pull_request:
     types: [opened, synchronize, reopened]
 
-defaults:
-  run:
-    shell: bash -e {0}
-
 jobs:
   parse:
     runs-on: ubuntu-latest
