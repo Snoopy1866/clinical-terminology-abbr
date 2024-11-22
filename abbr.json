@@ -401,62 +401,6 @@
     }
   },
   {
-    "name": "LCR",
-    "content": {
-      "full_name": "Local Control",
-      "description": "局部控制率"
-    }
-  },
-  {
-    "name": "MDT",
-    "content": {
-      "full_name": "Multidisciplinary Treatment",
-      "description": "多学科综合治疗"
-    }
-  },
-  {
-    "name": "RECIST",
-    "content": {
-      "full_name": "Response Evaluation Criteria in Solid Tumors",
-      "description": "实体肿瘤的疗效评价标准"
-    }
-  },
-  {
-    "name": "ROS",
-    "content": {
-      "full_name": "Reactive Oxygen Species",
-      "description": "活性氧"
-    }
-  },
-  {
-    "name": "VMAT",
-    "content": {
-      "full_name": "Volumetric-Modulated Arc Therapy",
-      "description": "容积旋转调强放疗"
-    }
-  },
-  {
-    "name": "IST",
-    "content": {
-      "full_name": "Industry-Sponsored Clinical Trial",
-      "description": "医药企业发起的药物临床试验"
-    }
-  },
-  {
-    "name": "IIT",
-    "content": {
-      "full_name": "Investigator-Initiated Trial",
-      "description": "研究者发起的临床研究"
-    }
-  },
-  {
-    "name": "ITT",
-    "content": {
-      "full_name": "Intention-To-Treat",
-      "description": "意向性治疗"
-    }
-  },
-  {
     "name": "GCP",
     "content": {
       "full_name": "Good Clinical Practice",
@@ -604,6 +548,13 @@
     }
   },
   {
+    "name": "IIT",
+    "content": {
+      "full_name": "Investigator-Initiated Trial",
+      "description": "研究者发起的临床研究"
+    }
+  },
+  {
     "name": "IMPT",
     "content": {
       "full_name": "Intensity Modulated Proton Therapy",
@@ -613,22 +564,71 @@
   {
     "name": "IMRT",
     "content": {
-      "full_name": " Intensity Modulated Radiation Therapy",
+      "full_name": "Intensity Modulated Radiation Therapy",
       "description": "适形调强放射治疗"
     }
   },
   {
     "name": "INR",
     "content": {
-      "full_name": "  International Normalized Ratio ",
+      "full_name": "International Normalized Ratio",
       "description": "国际标准化比值"
+    }
+  },
+  {
+    "name": "IST",
+    "content": {
+      "full_name": "Industry-Sponsored Clinical Trial",
+      "description": "医药企业发起的药物临床试验"
+    }
+  },
+  {
+    "name": "ITT",
+    "content": {
+      "full_name": "Intention-To-Treat",
+      "description": "意向性治疗"
     }
   },
   {
     "name": "IWRS",
     "content": {
-      "full_name": "  Interactive Web Response System ",
+      "full_name": "Interactive Web Response System",
       "description": "中央随机系统"
+    }
+  },
+  {
+    "name": "LCR",
+    "content": {
+      "full_name": "Local Control",
+      "description": "局部控制率"
+    }
+  },
+  {
+    "name": "MDT",
+    "content": {
+      "full_name": "Multidisciplinary Treatment",
+      "description": "多学科综合治疗"
+    }
+  },
+  {
+    "name": "RECIST",
+    "content": {
+      "full_name": "Response Evaluation Criteria in Solid Tumors",
+      "description": "实体肿瘤的疗效评价标准"
+    }
+  },
+  {
+    "name": "ROS",
+    "content": {
+      "full_name": "Reactive Oxygen Species",
+      "description": "活性氧"
+    }
+  },
+  {
+    "name": "VMAT",
+    "content": {
+      "full_name": "Volumetric-Modulated Arc Therapy",
+      "description": "容积旋转调强放疗"
     }
   }
 ]
