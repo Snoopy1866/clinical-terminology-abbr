@@ -92,3 +92,4 @@
 | RECIST    | Response Evaluation Criteria in Solid Tumors                                                           | 实体肿瘤的疗效评价标准                 |
 | ROS       | Reactive Oxygen Species                                                                                | 活性氧                                 |
 | VMAT      | Volumetric-Modulated Arc Therapy                                                                       | 容积旋转调强放疗                       |
+| VMAT      | Volumetric-Modulated Arc Therapy2                                                                      | 容积旋转调强放疗2                      |
