@@ -637,5 +637,12 @@
       "full_name": "Volumetric-Modulated Arc Therapy2",
       "description": "容积旋转调强放疗2"
     }
+  },
+  {
+    "name": "ROS",
+    "content": {
+      "full_name": "Reactive Oxygen Species",
+      "description": "活性氧"
+    }
   }
 ]
