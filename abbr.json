@@ -455,5 +455,180 @@
       "full_name": "Intention-To-Treat",
       "description": "意向性治疗"
     }
+  },
+  {
+    "name": "GCP",
+    "content": {
+      "full_name": "Good Clinical Practice",
+      "description": "医疗器械临床试验质量管理规范"
+    }
+  },
+  {
+    "name": "GLU",
+    "content": {
+      "full_name": "Glucose",
+      "description": "尿糖"
+    }
+  },
+  {
+    "name": "GTV",
+    "content": {
+      "full_name": "Gross Tumor Volume",
+      "description": "大体肿瘤区"
+    }
+  },
+  {
+    "name": "HA",
+    "content": {
+      "full_name": "Hyaluronic Acid",
+      "description": "透明质酸"
+    }
+  },
+  {
+    "name": "HBO",
+    "content": {
+      "full_name": "Hyperbaric Oxygen",
+      "description": "高压氧"
+    }
+  },
+  {
+    "name": "HBV",
+    "content": {
+      "full_name": "Hepatitis Virus B",
+      "description": "乙型肝炎病毒"
+    }
+  },
+  {
+    "name": "HCG",
+    "content": {
+      "full_name": "Human Chorionic Gonadotropin",
+      "description": "血妊娠试验"
+    }
+  },
+  {
+    "name": "HCT",
+    "content": {
+      "full_name": "Hematocrit",
+      "description": "血细胞比容"
+    }
+  },
+  {
+    "name": "HCV",
+    "content": {
+      "full_name": "Hepatitis Virus C",
+      "description": "丙型肝炎病毒"
+    }
+  },
+  {
+    "name": "Hgb",
+    "content": {
+      "full_name": "Hemoglobin",
+      "description": "血红蛋白"
+    }
+  },
+  {
+    "name": "HIE",
+    "content": {
+      "full_name": "Hypoxic-ischemia Encephalopathy",
+      "description": "重度缺氧缺血性脑病"
+    }
+  },
+  {
+    "name": "HINE",
+    "content": {
+      "full_name": "Hammersmith Infant Neurological Examination",
+      "description": "Hammersmith 婴幼儿神经学检查"
+    }
+  },
+  {
+    "name": "HIS",
+    "content": {
+      "full_name": "Hospital Information System",
+      "description": "计算机信息系统"
+    }
+  },
+  {
+    "name": "HIV",
+    "content": {
+      "full_name": "Human Immunodeficiency Virus",
+      "description": "人类免疫缺陷病毒"
+    }
+  },
+  {
+    "name": "HLGT",
+    "content": {
+      "full_name": "High Level Group Terms",
+      "description": "高位组语"
+    }
+  },
+  {
+    "name": "HLT",
+    "content": {
+      "full_name": "High Level Terms",
+      "description": "高位语"
+    }
+  },
+  {
+    "name": "ICE",
+    "content": {
+      "full_name": "Intracardiac Echocardiography",
+      "description": "心腔内超声心动图"
+    }
+  },
+  {
+    "name": "ICF",
+    "content": {
+      "full_name": "Informed Consent Form",
+      "description": "知情同意书"
+    }
+  },
+  {
+    "name": "ICH",
+    "content": {
+      "full_name": "The International Council for Harmonisation of Technical Requirement for Pharmaceuticals for Human Use",
+      "description": "人用药品技术要求国际协调理事会"
+    }
+  },
+  {
+    "name": "IGRT",
+    "content": {
+      "full_name": "Image-Guided Radiation Therapy",
+      "description": "影像引导放射治疗"
+    }
+  },
+  {
+    "name": "IHRCP",
+    "content": {
+      "full_name": "Infants at High Risk of Cerebral Palsy",
+      "description": "脑性瘫痪高危儿"
+    }
+  },
+  {
+    "name": "IMPT",
+    "content": {
+      "full_name": "Intensity Modulated Proton Therapy",
+      "description": "适形调强质子治疗"
+    }
+  },
+  {
+    "name": "IMRT",
+    "content": {
+      "full_name": " Intensity Modulated Radiation Therapy",
+      "description": "适形调强放射治疗"
+    }
+  },
+  {
+    "name": "INR",
+    "content": {
+      "full_name": "  International Normalized Ratio ",
+      "description": "国际标准化比值"
+    }
+  },
+  {
+    "name": "IWRS",
+    "content": {
+      "full_name": "  Interactive Web Response System ",
+      "description": "中央随机系统"
+    }
   }
 ]
