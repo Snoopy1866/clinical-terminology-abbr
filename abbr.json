@@ -434,5 +434,26 @@
       "full_name": "Volumetric-Modulated Arc Therapy",
       "description": "容积旋转调强放疗"
     }
+  },
+  {
+    "name": "IST",
+    "content": {
+      "full_name": "Industry-Sponsored Clinical Trial",
+      "description": "医药企业发起的药物临床试验"
+    }
+  },
+  {
+    "name": "IIT",
+    "content": {
+      "full_name": "Investigator-Initiated Trial",
+      "description": "研究者发起的临床研究"
+    }
+  },
+  {
+    "name": "ITT",
+    "content": {
+      "full_name": "Intention-To-Treat",
+      "description": "意向性治疗"
+    }
   }
 ]
