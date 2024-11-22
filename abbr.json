@@ -630,12 +630,5 @@
       "full_name": "Volumetric-Modulated Arc Therapy",
       "description": "容积旋转调强放疗"
     }
-  },
-  {
-    "name": "VMAT",
-    "content": {
-      "full_name": "Volumetric-Modulated Arc Therapy2",
-      "description": "容积旋转调强放疗2"
-    }
   }
 ]
