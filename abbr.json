@@ -604,48 +604,6 @@
     }
   },
   {
-    "name": "MDT",
-    "content": {
-      "full_name": "Multidisciplinary Treatment",
-      "description": "多学科综合治疗"
-    }
-  },
-  {
-    "name": "RECIST",
-    "content": {
-      "full_name": "Response Evaluation Criteria in Solid Tumors",
-      "description": "实体肿瘤的疗效评价标准"
-    }
-  },
-  {
-    "name": "ROS",
-    "content": {
-      "full_name": "Reactive Oxygen Species",
-      "description": "活性氧"
-    }
-  },
-  {
-    "name": "VMAT",
-    "content": {
-      "full_name": "Volumetric-Modulated Arc Therapy",
-      "description": "容积旋转调强放疗"
-    }
-  },
-  {
-    "name": "UICC",
-    "content": {
-      "full_name": "Union for International Cancer Control",
-      "description": "国际抗癌联盟"
-    }
-  },
-  {
-    "name": "RTOG",
-    "content": {
-      "full_name": "Radiation Therapy Oncology Group",
-      "description": "放射肿瘤协作组"
-    }
-  },
-  {
     "name": "LET",
     "content": {
       "full_name": "Linear Energy Transfer",
@@ -690,49 +648,56 @@
   {
     "name": "LVEF",
     "content": {
-      "full_name": "Left Ventricular Ejection Fraction ",
+      "full_name": "Left Ventricular Ejection Fraction",
       "description": "左心室射血分数"
     }
   },
   {
     "name": "LVESV",
     "content": {
-      "full_name": "Left Ventricular End-systolic Volume ",
+      "full_name": "Left Ventricular End-systolic Volume",
       "description": "收缩末期容积"
     }
   },
   {
     "name": "Mb",
     "content": {
-      "full_name": "Myoglobin ",
+      "full_name": "Myoglobin",
       "description": "肌红蛋白"
+    }
+  },
+  {
+    "name": "MDT",
+    "content": {
+      "full_name": "Multidisciplinary Treatment",
+      "description": "多学科综合治疗"
     }
   },
   {
     "name": "MedDRA",
     "content": {
-      "full_name": "Medical Dictionary for Regulatory Activities ",
+      "full_name": "Medical Dictionary for Regulatory Activities",
       "description": "监管活动医学词典"
     }
   },
   {
     "name": "MRI",
     "content": {
-      "full_name": "Magnetic Resonance Imaging  ",
+      "full_name": "Magnetic Resonance Imaging",
       "description": "磁共振成像"
     }
   },
   {
     "name": "NBNA",
     "content": {
-      "full_name": "Neonatal Behavioral Neurological Assessment  ",
+      "full_name": "Neonatal Behavioral Neurological Assessment",
       "description": "新生儿神经行为测定"
     }
   },
   {
     "name": "NCS",
     "content": {
-      "full_name": "Not Clinically Significant ",
+      "full_name": "Not Clinically Significant",
       "description": "无临床意义"
     }
   },
@@ -774,8 +739,43 @@
   {
     "name": "NYHA",
     "content": {
-      "full_name": "New York Heart Association ",
+      "full_name": "New York Heart Association",
       "description": "纽约心脏学会"
+    }
+  },
+  {
+    "name": "RECIST",
+    "content": {
+      "full_name": "Response Evaluation Criteria in Solid Tumors",
+      "description": "实体肿瘤的疗效评价标准"
+    }
+  },
+  {
+    "name": "ROS",
+    "content": {
+      "full_name": "Reactive Oxygen Species",
+      "description": "活性氧"
+    }
+  },
+  {
+    "name": "RTOG",
+    "content": {
+      "full_name": "Radiation Therapy Oncology Group",
+      "description": "放射肿瘤协作组"
+    }
+  },
+  {
+    "name": "UICC",
+    "content": {
+      "full_name": "Union for International Cancer Control",
+      "description": "国际抗癌联盟"
+    }
+  },
+  {
+    "name": "VMAT",
+    "content": {
+      "full_name": "Volumetric-Modulated Arc Therapy",
+      "description": "容积旋转调强放疗"
     }
   }
 ]

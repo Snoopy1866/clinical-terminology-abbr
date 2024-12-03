@@ -88,7 +88,28 @@
 | ITT       | Intention-To-Treat                                                                                     | 意向性治疗                             |
 | IWRS      | Interactive Web Response System                                                                        | 中央随机系统                           |
 | LCR       | Local Control                                                                                          | 局部控制率                             |
+| LET       | Linear Energy Transfer                                                                                 | 线性能量传递                           |
+| LEU       | Leucocyte                                                                                              | 尿白细胞计数                           |
+| LGG       | Low-Grade Glioma                                                                                       | 低级别胶质瘤                           |
+| LLT       | Lowest Level Terms                                                                                     | 低位语                                 |
+| LOCF      | Last Observation Carried Forward                                                                       | 末次观测值结转                         |
+| LVEDV     | Left Ventricular End-diastolic Volume                                                                  | 舒张末期容积                           |
+| LVEF      | Left Ventricular Ejection Fraction                                                                     | 左心室射血分数                         |
+| LVESV     | Left Ventricular End-systolic Volume                                                                   | 收缩末期容积                           |
+| Mb        | Myoglobin                                                                                              | 肌红蛋白                               |
 | MDT       | Multidisciplinary Treatment                                                                            | 多学科综合治疗                         |
+| MedDRA    | Medical Dictionary for Regulatory Activities                                                           | 监管活动医学词典                       |
+| MRI       | Magnetic Resonance Imaging                                                                             | 磁共振成像                             |
+| NBNA      | Neonatal Behavioral Neurological Assessment                                                            | 新生儿神经行为测定                     |
+| NCS       | Not Clinically Significant                                                                             | 无临床意义                             |
+| NEUT      | Neutrophil                                                                                             | 中性粒细胞                             |
+| NLFs      | Nasolabial Folds                                                                                       | 鼻唇沟皱纹                             |
+| NMPA      | National Medical Products Administration                                                               | 国家药品监督管理局                     |
+| NPC       | Nasopharyngeal Carcinoma                                                                               | 鼻咽癌                                 |
+| NSCLC     | Non-Small Cell Lung Cancer                                                                             | 非小细胞肺癌                           |
+| NYHA      | New York Heart Association                                                                             | 纽约心脏学会                           |
 | RECIST    | Response Evaluation Criteria in Solid Tumors                                                           | 实体肿瘤的疗效评价标准                 |
 | ROS       | Reactive Oxygen Species                                                                                | 活性氧                                 |
+| RTOG      | Radiation Therapy Oncology Group                                                                       | 放射肿瘤协作组                         |
+| UICC      | Union for International Cancer Control                                                                 | 国际抗癌联盟                           |
 | VMAT      | Volumetric-Modulated Arc Therapy                                                                       | 容积旋转调强放疗                       |
