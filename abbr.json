@@ -604,10 +604,143 @@
     }
   },
   {
+    "name": "LET",
+    "content": {
+      "full_name": "Linear Energy Transfer",
+      "description": "线性能量传递"
+    }
+  },
+  {
+    "name": "LEU",
+    "content": {
+      "full_name": "Leucocyte",
+      "description": "尿白细胞计数"
+    }
+  },
+  {
+    "name": "LGG",
+    "content": {
+      "full_name": "Low-Grade Glioma",
+      "description": "低级别胶质瘤"
+    }
+  },
+  {
+    "name": "LLT",
+    "content": {
+      "full_name": "Lowest Level Terms",
+      "description": "低位语"
+    }
+  },
+  {
+    "name": "LOCF",
+    "content": {
+      "full_name": "Last Observation Carried Forward",
+      "description": "末次观测值结转"
+    }
+  },
+  {
+    "name": "LVEDV",
+    "content": {
+      "full_name": "Left Ventricular End-diastolic Volume",
+      "description": "舒张末期容积"
+    }
+  },
+  {
+    "name": "LVEF",
+    "content": {
+      "full_name": "Left Ventricular Ejection Fraction",
+      "description": "左心室射血分数"
+    }
+  },
+  {
+    "name": "LVESV",
+    "content": {
+      "full_name": "Left Ventricular End-systolic Volume",
+      "description": "收缩末期容积"
+    }
+  },
+  {
+    "name": "Mb",
+    "content": {
+      "full_name": "Myoglobin",
+      "description": "肌红蛋白"
+    }
+  },
+  {
     "name": "MDT",
     "content": {
       "full_name": "Multidisciplinary Treatment",
       "description": "多学科综合治疗"
+    }
+  },
+  {
+    "name": "MedDRA",
+    "content": {
+      "full_name": "Medical Dictionary for Regulatory Activities",
+      "description": "监管活动医学词典"
+    }
+  },
+  {
+    "name": "MRI",
+    "content": {
+      "full_name": "Magnetic Resonance Imaging",
+      "description": "磁共振成像"
+    }
+  },
+  {
+    "name": "NBNA",
+    "content": {
+      "full_name": "Neonatal Behavioral Neurological Assessment",
+      "description": "新生儿神经行为测定"
+    }
+  },
+  {
+    "name": "NCS",
+    "content": {
+      "full_name": "Not Clinically Significant",
+      "description": "无临床意义"
+    }
+  },
+  {
+    "name": "NEUT",
+    "content": {
+      "full_name": "Neutrophil",
+      "description": "中性粒细胞"
+    }
+  },
+  {
+    "name": "NLFs",
+    "content": {
+      "full_name": "Nasolabial Folds",
+      "description": "鼻唇沟皱纹"
+    }
+  },
+  {
+    "name": "NMPA",
+    "content": {
+      "full_name": "National Medical Products Administration",
+      "description": "国家药品监督管理局"
+    }
+  },
+  {
+    "name": "NPC",
+    "content": {
+      "full_name": "Nasopharyngeal Carcinoma",
+      "description": "鼻咽癌"
+    }
+  },
+  {
+    "name": "NSCLC",
+    "content": {
+      "full_name": "Non-Small Cell Lung Cancer",
+      "description": "非小细胞肺癌"
+    }
+  },
+  {
+    "name": "NYHA",
+    "content": {
+      "full_name": "New York Heart Association",
+      "description": "纽约心脏学会"
     }
   },
   {
@@ -622,6 +755,20 @@
     "content": {
       "full_name": "Reactive Oxygen Species",
       "description": "活性氧"
+    }
+  },
+  {
+    "name": "RTOG",
+    "content": {
+      "full_name": "Radiation Therapy Oncology Group",
+      "description": "放射肿瘤协作组"
+    }
+  },
+  {
+    "name": "UICC",
+    "content": {
+      "full_name": "Union for International Cancer Control",
+      "description": "国际抗癌联盟"
     }
   },
   {
