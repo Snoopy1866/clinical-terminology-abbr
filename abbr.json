@@ -639,13 +639,6 @@
     }
   },
   {
-    "name": "AJCC",
-    "content": {
-      "full_name": "American Joint Committee on Cancer",
-      "description": "美国癌症联合会"
-    }
-  },
-  {
     "name": "RTOG",
     "content": {
       "full_name": "Radiation Therapy Oncology Group",
