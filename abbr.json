@@ -777,5 +777,12 @@
       "full_name": "Volumetric-Modulated Arc Therapy",
       "description": "容积旋转调强放疗"
     }
+  },
+  {
+    "name": "DICOM",
+    "content": {
+      "full_name": "Digital Imaging and Communications in Medicine",
+      "description": "医学数字成像和通信"
+    }
   }
 ]
