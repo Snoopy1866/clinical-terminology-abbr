@@ -800,7 +800,7 @@
     }
   },
   {
-    "name": "MRU",
+    "name": "KUB",
     "content": {
       "full_name": "Plain Film of Kidney, Ureter and Bladder",
       "description": "尿路平片"
@@ -871,17 +871,16 @@
   },
   {
     "name": "OS",
-    "content": {
-      "full_name": "Overall Survival ",
-      "description": "总生存期"
-    }
-  },
-  {
-    "name": "OS",
-    "content": {
-      "full_name": "Pencil Beam Scanning ",
-      "description": "笔形束扫描"
-    }
+    "content": [
+      {
+        "full_name": "Overall Survival ",
+        "description": "总生存期"
+      },
+      {
+        "full_name": "Pencil Beam Scanning ",
+        "description": "笔形束扫描"
+      }
+    ]
   },
   {
     "name": "PCI",
