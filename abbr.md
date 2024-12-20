@@ -38,6 +38,7 @@
 | CTV       | Clinical Target Volume                                                                                 | 临床靶区                               |
 | DART      | Dynamic Adaptive Radiation Therapy                                                                     | 动态适应的放疗技术                     |
 | DCR       | Disease Control Rate                                                                                   | 肿瘤疾病控制率                         |
+| DICOM     | Digital Imaging and Communications in Medicine                                                         | 医学数字成像和通信                     |
 | DIPS      | Digital Imaging Positioning System                                                                     | 数字化影像定位系统                     |
 | DNA       | Deoxyribonucleic Acid                                                                                  | 脱氧核糖核酸                           |
 | DOR       | Duration of Response                                                                                   | 持续缓解时间                           |
@@ -55,6 +56,7 @@
 | EHRA      | European Heart Rhythm Association                                                                      | 欧洲心律协会                           |
 | ERY       | Erythrocyte                                                                                            | 尿红细胞计数                           |
 | ESMR      | Extracorporeal Shockwave Myocardial Revascularization                                                  | 体外冲击波心肌再血管化治疗             |
+| ESWL      | Extracorporeal Shock Wave Lithotripsy                                                                  | 体外冲击波碎石                         |
 | FAS       | Full Analysis Set                                                                                      | 全分析集                               |
 | FFPE      | Formaldehyde Fixed-Paraffin Embedded                                                                   | 经中性福尔马林固定的石蜡包埋           |
 | FIB       | Fibrinogen                                                                                             | 纤维蛋白原                             |
@@ -86,7 +88,9 @@
 | INR       | International Normalized Ratio                                                                         | 国际标准化比值                         |
 | IST       | Industry-Sponsored Clinical Trial                                                                      | 医药企业发起的药物临床试验             |
 | ITT       | Intention-To-Treat                                                                                     | 意向性治疗                             |
+| IVU       | Intravenous Urography                                                                                  | 静脉尿路造影                           |
 | IWRS      | Interactive Web Response System                                                                        | 中央随机系统                           |
+| KUB       | Plain Film of Kidney, Ureter and Bladder                                                               | 尿路平片                               |
 | LCR       | Local Control                                                                                          | 局部控制率                             |
 | LET       | Linear Energy Transfer                                                                                 | 线性能量传递                           |
 | LEU       | Leucocyte                                                                                              | 尿白细胞计数                           |
@@ -100,7 +104,9 @@
 | MDT       | Multidisciplinary Treatment                                                                            | 多学科综合治疗                         |
 | MedDRA    | Medical Dictionary for Regulatory Activities                                                           | 监管活动医学词典                       |
 | MRI       | Magnetic Resonance Imaging                                                                             | 磁共振成像                             |
+| MRU       | Magnetic Resonance Urography                                                                           | 磁共振泌尿系水成像                     |
 | NBNA      | Neonatal Behavioral Neurological Assessment                                                            | 新生儿神经行为测定                     |
+| NCCT      | Non-contrast CT                                                                                        | 非增强 CT                              |
 | NCS       | Not Clinically Significant                                                                             | 无临床意义                             |
 | NEUT      | Neutrophil                                                                                             | 中性粒细胞                             |
 | NLFs      | Nasolabial Folds                                                                                       | 鼻唇沟皱纹                             |
@@ -108,8 +114,36 @@
 | NPC       | Nasopharyngeal Carcinoma                                                                               | 鼻咽癌                                 |
 | NSCLC     | Non-Small Cell Lung Cancer                                                                             | 非小细胞肺癌                           |
 | NYHA      | New York Heart Association                                                                             | 纽约心脏学会                           |
+| OAR       | Organ at Risk                                                                                          | 危及器官                               |
+| OB        | Occult Blood Test                                                                                      | 隐血试验                               |
+| OIS       | Oncology Information System                                                                            | 肿瘤信息系统                           |
+| OPC       | Oropharyngeal Cancer                                                                                   | 口咽癌                                 |
+| ORR       | Objective Response Rate                                                                                | 客观缓解率                             |
+| OS        | Overall Survival                                                                                       | 总生存期                               |
+| PBS       | Pencil Beam Scanning                                                                                   | 笔形束扫描                             |
+| PCI       | Percutaneous Coronary Intervention                                                                     | 经皮冠状动脉介入治疗                   |
+| PCNL      | Percutaneous Nephrolithotripsy                                                                         | 经皮肾镜碎石取石术                     |
+| PCR       | Polymerase Chain Reaction                                                                              | 聚合酶链式反应                         |
+| PD        | Progressive Disease                                                                                    | 疾病进展                               |
+| PET       | Positron Emission Tomography                                                                           | 正电子发射断层扫描                     |
+| PFS       | Progression-free Survival                                                                              | 无进展生存期                           |
+| PIVH      | Periventricular-intraventricular Hemorrhage                                                            | 脑室周围-脑室内出血                    |
+| PLT       | Platelet                                                                                               | 血小板                                 |
+| PN        | Preferred Name                                                                                         | 首选名称                               |
+| PPS       | Per-Protocol Set                                                                                       | 符合方案集                             |
+| PR        | Partial Response                                                                                       | 部分缓解                               |
+| PRO       | Proteinuria                                                                                            | 尿蛋白                                 |
+| PRV       | Planning Organ-at-Risk Volume                                                                          | 计划危及器官                           |
+| PSA       | Prostate Specific Antigen                                                                              | 前列腺特异抗原                         |
+| PSI       | Paul Scherrer Institute                                                                                | 瑞士保罗谢勒研究所                     |
+| PT        | Preferred Terms                                                                                        | 首选术语                               |
+|           | Prothrombin Time                                                                                       | 凝血酶原时间                           |
+| PTC       | Proton Treatment Console                                                                               | 质子治疗控制台                         |
+| PTV       | Planning Target Volume                                                                                 | 计划靶区                               |
+| PVI       | Pulmonary Vein Isolation                                                                               | 肺静脉隔离                             |
 | RECIST    | Response Evaluation Criteria in Solid Tumors                                                           | 实体肿瘤的疗效评价标准                 |
 | ROS       | Reactive Oxygen Species                                                                                | 活性氧                                 |
 | RTOG      | Radiation Therapy Oncology Group                                                                       | 放射肿瘤协作组                         |
 | UICC      | Union for International Cancer Control                                                                 | 国际抗癌联盟                           |
+| URL       | Ureteroscope Lithotripsy                                                                               | 输尿管镜碎石取石术                     |
 | VMAT      | Volumetric-Modulated Arc Therapy                                                                       | 容积旋转调强放疗                       |
