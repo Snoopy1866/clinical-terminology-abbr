@@ -86,6 +86,13 @@
     }
   },
   {
+    "name": "AUC",
+    "content": {
+      "full_name": "Area Under Curve",
+      "description": "曲线下面积"
+    }
+  },
+  {
     "name": "BUN",
     "content": {
       "full_name": "Blood Urea Nitrogen",
@@ -104,6 +111,13 @@
     "content": {
       "full_name": "Cone beam CT",
       "description": "锥形束 CT"
+    }
+  },
+  {
+    "name": "CC",
+    "content": {
+      "full_name": "Cervical Cancer",
+      "description": "宫颈癌"
     }
   },
   {
@@ -527,6 +541,13 @@
     }
   },
   {
+    "name": "HPV",
+    "content": {
+      "full_name": "Human Papilloma Virus",
+      "description": "人乳头瘤病毒"
+    }
+  },
+  {
     "name": "ICE",
     "content": {
       "full_name": "Intracardiac Echocardiography",
@@ -622,6 +643,13 @@
     "content": {
       "full_name": "Plain Film of Kidney, Ureter and Bladder",
       "description": "尿路平片"
+    }
+  },
+  {
+    "name": "LA",
+    "content": {
+      "full_name": "Linear Accelerator",
+      "description": "医用直线加速器系统"
     }
   },
   {
@@ -974,83 +1002,6 @@
     }
   },
   {
-    "name": "RECIST",
-    "content": {
-      "full_name": "Response Evaluation Criteria in Solid Tumors",
-      "description": "实体肿瘤的疗效评价标准"
-    }
-  },
-  {
-    "name": "ROS",
-    "content": {
-      "full_name": "Reactive Oxygen Species",
-      "description": "活性氧"
-    }
-  },
-  {
-    "name": "RTOG",
-    "content": {
-      "full_name": "Radiation Therapy Oncology Group",
-      "description": "放射肿瘤协作组"
-    }
-  },
-  {
-    "name": "UICC",
-    "content": {
-      "full_name": "Union for International Cancer Control",
-      "description": "国际抗癌联盟"
-    }
-  },
-  {
-    "name": "URL",
-    "content": {
-      "full_name": "Ureteroscope Lithotripsy",
-      "description": "输尿管镜碎石取石术"
-    }
-  },
-  {
-    "name": "VMAT",
-    "content": {
-      "full_name": "Volumetric-Modulated Arc Therapy",
-      "description": "容积旋转调强放疗"
-    }
-  },
-  {
-    "name": "LA",
-    "content": {
-      "full_name": "Linear Accelerator",
-      "description": "医用直线加速器系统"
-    }
-  },
-  {
-    "name": "CC",
-    "content": {
-      "full_name": "Cervical Cancer",
-      "description": "宫颈癌"
-    }
-  },
-  {
-    "name": "AUC",
-    "content": {
-      "full_name": "Area Under Curve",
-      "description": "曲线下面积"
-    }
-  },
-  {
-    "name": "HPV",
-    "content": {
-      "full_name": "Human Papilloma Virus",
-      "description": "人乳头瘤病毒"
-    }
-  },
-  {
-    "name": "TCT",
-    "content": {
-      "full_name": "Thin-layer Cytological Test",
-      "description": "液基薄层细胞检测"
-    }
-  },
-  {
     "name": "QA",
     "content": {
       "full_name": "Quality Assurance",
@@ -1079,6 +1030,27 @@
     }
   },
   {
+    "name": "RECIST",
+    "content": {
+      "full_name": "Response Evaluation Criteria in Solid Tumors",
+      "description": "实体肿瘤的疗效评价标准"
+    }
+  },
+  {
+    "name": "ROS",
+    "content": {
+      "full_name": "Reactive Oxygen Species",
+      "description": "活性氧"
+    }
+  },
+  {
+    "name": "RTOG",
+    "content": {
+      "full_name": "Radiation Therapy Oncology Group",
+      "description": "放射肿瘤协作组"
+    }
+  },
+  {
     "name": "RVR",
     "content": {
       "full_name": "Remaining Volume at Risk",
@@ -1102,7 +1074,7 @@
   {
     "name": "SAS",
     "content": {
-      "full_name": "Statistical Analysis System ",
+      "full_name": "Statistical Analysis System",
       "description": "统计分析系统"
     }
   },
@@ -1116,28 +1088,28 @@
   {
     "name": "SCIC",
     "content": {
-      "full_name": "Second Channel Integrity Check ",
+      "full_name": "Second Channel Integrity Check",
       "description": "第二道完整性检查"
     }
   },
   {
     "name": "SCLC",
     "content": {
-      "full_name": "Small Cell Lung Cancer  ",
+      "full_name": "Small Cell Lung Cancer",
       "description": "小细胞肺癌"
     }
   },
   {
     "name": "Scr",
     "content": {
-      "full_name": "Serum Creatinine ",
+      "full_name": "Serum Creatinine",
       "description": "肌酐"
     }
   },
   {
     "name": "SD",
     "content": {
-      "full_name": "Stable Disease ",
+      "full_name": "Stable Disease",
       "description": "疾病稳定"
     }
   },
@@ -1151,21 +1123,21 @@
   {
     "name": "SLD",
     "content": {
-      "full_name": "Sum of Longest Diameter ",
+      "full_name": "Sum of Longest Diameter",
       "description": "肿瘤最长径总和"
     }
   },
   {
     "name": "SOBP",
     "content": {
-      "full_name": "Spread-out Bragg Peak ",
+      "full_name": "Spread-out Bragg Peak",
       "description": "扩展布拉格峰"
     }
   },
   {
     "name": "SOC",
     "content": {
-      "full_name": "System Organ Class ",
+      "full_name": "System Organ Class",
       "description": "系统器官分类"
     }
   },
@@ -1198,6 +1170,13 @@
     }
   },
   {
+    "name": "TCT",
+    "content": {
+      "full_name": "Thin-layer Cytological Test",
+      "description": "液基薄层细胞检测"
+    }
+  },
+  {
     "name": "TEAE",
     "content": {
       "full_name": "Treatment Emergent Adverse Event",
@@ -1207,21 +1186,21 @@
   {
     "name": "TEE",
     "content": {
-      "full_name": "Transesophageal Echocardiography ",
+      "full_name": "Transesophageal Echocardiography",
       "description": "经食管超声心动图"
     }
   },
   {
     "name": "TNM",
     "content": {
-      "full_name": " Tumor, Node, Metastasis",
+      "full_name": "Tumor, Node, Metastasis",
       "description": "肿瘤、淋巴结、转移"
     }
   },
   {
     "name": "TT",
     "content": {
-      "full_name": "  Thrombin Time",
+      "full_name": "Thrombin Time",
       "description": "凝血酶时间"
     }
   },
@@ -1240,6 +1219,13 @@
     }
   },
   {
+    "name": "UICC",
+    "content": {
+      "full_name": "Union for International Cancer Control",
+      "description": "国际抗癌联盟"
+    }
+  },
+  {
     "name": "ULN",
     "content": {
       "full_name": "Upper Limit of Normal",
@@ -1247,17 +1233,31 @@
     }
   },
   {
+    "name": "URL",
+    "content": {
+      "full_name": "Ureteroscope Lithotripsy",
+      "description": "输尿管镜碎石取石术"
+    }
+  },
+  {
     "name": "VAS",
     "content": {
-      "full_name": "Visual Analogue Scale ",
+      "full_name": "Visual Analogue Scale",
       "description": "视觉模拟评分法"
     }
   },
   {
     "name": "VEGF",
     "content": {
-      "full_name": "Vascular Endothelial Growth Factor ",
+      "full_name": "Vascular Endothelial Growth Factor",
       "description": "血管内皮生长因子"
+    }
+  },
+  {
+    "name": "VMAT",
+    "content": {
+      "full_name": "Volumetric-Modulated Arc Therapy",
+      "description": "容积旋转调强放疗"
     }
   },
   {
