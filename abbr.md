@@ -14,9 +14,11 @@
 | APTT      | Activated Partial Thromboplastin Time                                                                  | 活化部分凝血活酶时间                   |
 | AST       | Aspartate Aminotransferase                                                                             | 谷草转氨酶                             |
 | ATC       | Anatomical Therapeutic Chemical                                                                        | 解剖、治疗、化学                       |
+| AUC       | Area Under Curve                                                                                       | 曲线下面积                             |
 | BUN       | Blood Urea Nitrogen                                                                                    | 尿素氮                                 |
 | CABG      | Coronary Artery Bypass Grafting                                                                        | 冠状动脉旁路移植术                     |
 | CBCT      | Cone beam CT                                                                                           | 锥形束 CT                              |
+| CC        | Cervical Cancer                                                                                        | 宫颈癌                                 |
 | Ccr       | Endogenous Creatinine Clearance Rate                                                                   | 肌酐清除率                             |
 | CCS       | Canadian Cardiovascular Society                                                                        | 加拿大心血管学会                       |
 | CFDA      | China Food and Drug Administration                                                                     | 国家食品药品监督管理总局               |
@@ -77,6 +79,7 @@
 | HIV       | Human Immunodeficiency Virus                                                                           | 人类免疫缺陷病毒                       |
 | HLGT      | High Level Group Terms                                                                                 | 高位组语                               |
 | HLT       | High Level Terms                                                                                       | 高位语                                 |
+| HPV       | Human Papilloma Virus                                                                                  | 人乳头瘤病毒                           |
 | ICE       | Intracardiac Echocardiography                                                                          | 心腔内超声心动图                       |
 | ICF       | Informed Consent Form                                                                                  | 知情同意书                             |
 | ICH       | The International Council for Harmonisation of Technical Requirement for Pharmaceuticals for Human Use | 人用药品技术要求国际协调理事会         |
@@ -91,6 +94,7 @@
 | IVU       | Intravenous Urography                                                                                  | 静脉尿路造影                           |
 | IWRS      | Interactive Web Response System                                                                        | 中央随机系统                           |
 | KUB       | Plain Film of Kidney, Ureter and Bladder                                                               | 尿路平片                               |
+| LA        | Linear Accelerator                                                                                     | 医用直线加速器系统                     |
 | LCR       | Local Control                                                                                          | 局部控制率                             |
 | LET       | Linear Energy Transfer                                                                                 | 线性能量传递                           |
 | LEU       | Leucocyte                                                                                              | 尿白细胞计数                           |
@@ -141,9 +145,45 @@
 | PTC       | Proton Treatment Console                                                                               | 质子治疗控制台                         |
 | PTV       | Planning Target Volume                                                                                 | 计划靶区                               |
 | PVI       | Pulmonary Vein Isolation                                                                               | 肺静脉隔离                             |
+| QA        | Quality Assurance                                                                                      | 质量保证                               |
+| QOL       | Quality of Life                                                                                        | 生活质量                               |
+| RBC       | Red Blood Cell                                                                                         | 红细胞                                 |
+| RBE       | Relative Biological Effectiveness                                                                      | 相对生物学效应                         |
 | RECIST    | Response Evaluation Criteria in Solid Tumors                                                           | 实体肿瘤的疗效评价标准                 |
 | ROS       | Reactive Oxygen Species                                                                                | 活性氧                                 |
 | RTOG      | Radiation Therapy Oncology Group                                                                       | 放射肿瘤协作组                         |
+| RVR       | Remaining Volume at Risk                                                                               | 剩余危及区域                           |
+| SAE       | Serious Adverse Events                                                                                 | 严重不良事件                           |
+| SAP       | Statistical Analysis Plan                                                                              | 统计分析计划                           |
+| SAS       | Statistical Analysis System                                                                            | 统计分析系统                           |
+| SBRT      | Stereotactic Body Radiation Therapy                                                                    | 立体定向放射治疗                       |
+| SCIC      | Second Channel Integrity Check                                                                         | 第二道完整性检查                       |
+| SCLC      | Small Cell Lung Cancer                                                                                 | 小细胞肺癌                             |
+| Scr       | Serum Creatinine                                                                                       | 肌酐                                   |
+| SD        | Stable Disease                                                                                         | 疾病稳定                               |
+| SDV       | Source Data Validation                                                                                 | 原始数据核查                           |
+| SLD       | Sum of Longest Diameter                                                                                | 肿瘤最长径总和                         |
+| SOBP      | Spread-out Bragg Peak                                                                                  | 扩展布拉格峰                           |
+| SOC       | System Organ Class                                                                                     | 系统器官分类                           |
+| SOP       | Standard Operating Procedure                                                                           | 标准操作规程                           |
+| SS        | Safety Set                                                                                             | 安全性数据集                           |
+| STB       | Serum Total Bilirubin                                                                                  | 血清总胆红素                           |
+| SWI       | Susceptibility Weighted Imaging                                                                        | 磁敏感加权技术                         |
+| TCT       | Thin-layer Cytological Test                                                                            | 液基薄层细胞检测                       |
+| TEAE      | Treatment Emergent Adverse Event                                                                       | 治疗期间不良事件                       |
+| TEE       | Transesophageal Echocardiography                                                                       | 经食管超声心动图                       |
+| TNM       | Tumor, Node, Metastasis                                                                                | 肿瘤、淋巴结、转移                     |
+| TT        | Thrombin Time                                                                                          | 凝血酶时间                             |
+| TTE       | Transthoracic Echocardiogram                                                                           | 经胸超声心动图                         |
+| TV        | Treated Volume                                                                                         | 治疗区                                 |
 | UICC      | Union for International Cancer Control                                                                 | 国际抗癌联盟                           |
+| ULN       | Upper Limit of Normal                                                                                  | 正常值上限                             |
 | URL       | Ureteroscope Lithotripsy                                                                               | 输尿管镜碎石取石术                     |
+| VAS       | Visual Analogue Scale                                                                                  | 视觉模拟评分法                         |
+| VEGF      | Vascular Endothelial Growth Factor                                                                     | 血管内皮生长因子                       |
 | VMAT      | Volumetric-Modulated Arc Therapy                                                                       | 容积旋转调强放疗                       |
+| WBC       | White Blood Cell                                                                                       | 白细胞                                 |
+| WHO       | World Health Organization                                                                              | 世界卫生组织                           |
+| WHODD     | World Health Organization Drug Dictionary                                                              | 世界卫生组织药物词典                   |
+| WOCF      | Worst Observation Carried Forward                                                                      | 最差观察数据结转                       |
+| WSRS      | Wrinkle Severity Rating Scale                                                                          | 皱纹严重程度分级                       |

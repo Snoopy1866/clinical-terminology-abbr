@@ -86,6 +86,13 @@
     }
   },
   {
+    "name": "AUC",
+    "content": {
+      "full_name": "Area Under Curve",
+      "description": "曲线下面积"
+    }
+  },
+  {
     "name": "BUN",
     "content": {
       "full_name": "Blood Urea Nitrogen",
@@ -104,6 +111,13 @@
     "content": {
       "full_name": "Cone beam CT",
       "description": "锥形束 CT"
+    }
+  },
+  {
+    "name": "CC",
+    "content": {
+      "full_name": "Cervical Cancer",
+      "description": "宫颈癌"
     }
   },
   {
@@ -527,6 +541,13 @@
     }
   },
   {
+    "name": "HPV",
+    "content": {
+      "full_name": "Human Papilloma Virus",
+      "description": "人乳头瘤病毒"
+    }
+  },
+  {
     "name": "ICE",
     "content": {
       "full_name": "Intracardiac Echocardiography",
@@ -622,6 +643,13 @@
     "content": {
       "full_name": "Plain Film of Kidney, Ureter and Bladder",
       "description": "尿路平片"
+    }
+  },
+  {
+    "name": "LA",
+    "content": {
+      "full_name": "Linear Accelerator",
+      "description": "医用直线加速器系统"
     }
   },
   {
@@ -974,6 +1002,34 @@
     }
   },
   {
+    "name": "QA",
+    "content": {
+      "full_name": "Quality Assurance",
+      "description": "质量保证"
+    }
+  },
+  {
+    "name": "QOL",
+    "content": {
+      "full_name": "Quality of Life",
+      "description": "生活质量"
+    }
+  },
+  {
+    "name": "RBC",
+    "content": {
+      "full_name": "Red Blood Cell",
+      "description": "红细胞"
+    }
+  },
+  {
+    "name": "RBE",
+    "content": {
+      "full_name": "Relative Biological Effectiveness",
+      "description": "相对生物学效应"
+    }
+  },
+  {
     "name": "RECIST",
     "content": {
       "full_name": "Response Evaluation Criteria in Solid Tumors",
@@ -995,10 +1051,185 @@
     }
   },
   {
+    "name": "RVR",
+    "content": {
+      "full_name": "Remaining Volume at Risk",
+      "description": "剩余危及区域"
+    }
+  },
+  {
+    "name": "SAE",
+    "content": {
+      "full_name": "Serious Adverse Events",
+      "description": "严重不良事件"
+    }
+  },
+  {
+    "name": "SAP",
+    "content": {
+      "full_name": "Statistical Analysis Plan",
+      "description": "统计分析计划"
+    }
+  },
+  {
+    "name": "SAS",
+    "content": {
+      "full_name": "Statistical Analysis System",
+      "description": "统计分析系统"
+    }
+  },
+  {
+    "name": "SBRT",
+    "content": {
+      "full_name": "Stereotactic Body Radiation Therapy",
+      "description": "立体定向放射治疗"
+    }
+  },
+  {
+    "name": "SCIC",
+    "content": {
+      "full_name": "Second Channel Integrity Check",
+      "description": "第二道完整性检查"
+    }
+  },
+  {
+    "name": "SCLC",
+    "content": {
+      "full_name": "Small Cell Lung Cancer",
+      "description": "小细胞肺癌"
+    }
+  },
+  {
+    "name": "Scr",
+    "content": {
+      "full_name": "Serum Creatinine",
+      "description": "肌酐"
+    }
+  },
+  {
+    "name": "SD",
+    "content": {
+      "full_name": "Stable Disease",
+      "description": "疾病稳定"
+    }
+  },
+  {
+    "name": "SDV",
+    "content": {
+      "full_name": "Source Data Validation",
+      "description": "原始数据核查"
+    }
+  },
+  {
+    "name": "SLD",
+    "content": {
+      "full_name": "Sum of Longest Diameter",
+      "description": "肿瘤最长径总和"
+    }
+  },
+  {
+    "name": "SOBP",
+    "content": {
+      "full_name": "Spread-out Bragg Peak",
+      "description": "扩展布拉格峰"
+    }
+  },
+  {
+    "name": "SOC",
+    "content": {
+      "full_name": "System Organ Class",
+      "description": "系统器官分类"
+    }
+  },
+  {
+    "name": "SOP",
+    "content": {
+      "full_name": "Standard Operating Procedure",
+      "description": "标准操作规程"
+    }
+  },
+  {
+    "name": "SS",
+    "content": {
+      "full_name": "Safety Set",
+      "description": "安全性数据集"
+    }
+  },
+  {
+    "name": "STB",
+    "content": {
+      "full_name": "Serum Total Bilirubin",
+      "description": "血清总胆红素"
+    }
+  },
+  {
+    "name": "SWI",
+    "content": {
+      "full_name": "Susceptibility Weighted Imaging",
+      "description": "磁敏感加权技术"
+    }
+  },
+  {
+    "name": "TCT",
+    "content": {
+      "full_name": "Thin-layer Cytological Test",
+      "description": "液基薄层细胞检测"
+    }
+  },
+  {
+    "name": "TEAE",
+    "content": {
+      "full_name": "Treatment Emergent Adverse Event",
+      "description": "治疗期间不良事件"
+    }
+  },
+  {
+    "name": "TEE",
+    "content": {
+      "full_name": "Transesophageal Echocardiography",
+      "description": "经食管超声心动图"
+    }
+  },
+  {
+    "name": "TNM",
+    "content": {
+      "full_name": "Tumor, Node, Metastasis",
+      "description": "肿瘤、淋巴结、转移"
+    }
+  },
+  {
+    "name": "TT",
+    "content": {
+      "full_name": "Thrombin Time",
+      "description": "凝血酶时间"
+    }
+  },
+  {
+    "name": "TTE",
+    "content": {
+      "full_name": "Transthoracic Echocardiogram",
+      "description": "经胸超声心动图"
+    }
+  },
+  {
+    "name": "TV",
+    "content": {
+      "full_name": "Treated Volume",
+      "description": "治疗区"
+    }
+  },
+  {
     "name": "UICC",
     "content": {
       "full_name": "Union for International Cancer Control",
       "description": "国际抗癌联盟"
+    }
+  },
+  {
+    "name": "ULN",
+    "content": {
+      "full_name": "Upper Limit of Normal",
+      "description": "正常值上限"
     }
   },
   {
@@ -1009,10 +1240,59 @@
     }
   },
   {
+    "name": "VAS",
+    "content": {
+      "full_name": "Visual Analogue Scale",
+      "description": "视觉模拟评分法"
+    }
+  },
+  {
+    "name": "VEGF",
+    "content": {
+      "full_name": "Vascular Endothelial Growth Factor",
+      "description": "血管内皮生长因子"
+    }
+  },
+  {
     "name": "VMAT",
     "content": {
       "full_name": "Volumetric-Modulated Arc Therapy",
       "description": "容积旋转调强放疗"
+    }
+  },
+  {
+    "name": "WBC",
+    "content": {
+      "full_name": "White Blood Cell",
+      "description": "白细胞"
+    }
+  },
+  {
+    "name": "WHO",
+    "content": {
+      "full_name": "World Health Organization",
+      "description": "世界卫生组织"
+    }
+  },
+  {
+    "name": "WHODD",
+    "content": {
+      "full_name": "World Health Organization Drug Dictionary",
+      "description": "世界卫生组织药物词典"
+    }
+  },
+  {
+    "name": "WOCF",
+    "content": {
+      "full_name": "Worst Observation Carried Forward",
+      "description": "最差观察数据结转"
+    }
+  },
+  {
+    "name": "WSRS",
+    "content": {
+      "full_name": "Wrinkle Severity Rating Scale",
+      "description": "皱纹严重程度分级"
     }
   }
 ]
