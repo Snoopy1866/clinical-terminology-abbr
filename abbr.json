@@ -254,6 +254,13 @@
     }
   },
   {
+    "name": "DICOM",
+    "content": {
+      "full_name": "Digital Imaging and Communications in Medicine",
+      "description": "医学数字成像和通信"
+    }
+  },
+  {
     "name": "DIPS",
     "content": {
       "full_name": "Digital Imaging Positioning System",
@@ -370,6 +377,13 @@
     "content": {
       "full_name": "Extracorporeal Shockwave Myocardial Revascularization",
       "description": "体外冲击波心肌再血管化治疗"
+    }
+  },
+  {
+    "name": "ESWL",
+    "content": {
+      "full_name": "Extracorporeal Shock Wave Lithotripsy",
+      "description": "体外冲击波碎石"
     }
   },
   {
@@ -590,10 +604,24 @@
     }
   },
   {
+    "name": "IVU",
+    "content": {
+      "full_name": "Intravenous Urography",
+      "description": "静脉尿路造影"
+    }
+  },
+  {
     "name": "IWRS",
     "content": {
       "full_name": "Interactive Web Response System",
       "description": "中央随机系统"
+    }
+  },
+  {
+    "name": "KUB",
+    "content": {
+      "full_name": "Plain Film of Kidney, Ureter and Bladder",
+      "description": "尿路平片"
     }
   },
   {
@@ -688,10 +716,24 @@
     }
   },
   {
+    "name": "MRU",
+    "content": {
+      "full_name": "Magnetic Resonance Urography",
+      "description": "磁共振泌尿系水成像"
+    }
+  },
+  {
     "name": "NBNA",
     "content": {
       "full_name": "Neonatal Behavioral Neurological Assessment",
       "description": "新生儿神经行为测定"
+    }
+  },
+  {
+    "name": "NCCT",
+    "content": {
+      "full_name": "Non-contrast CT",
+      "description": "非增强 CT"
     }
   },
   {
@@ -744,6 +786,194 @@
     }
   },
   {
+    "name": "OAR",
+    "content": {
+      "full_name": "Organ at Risk",
+      "description": "危及器官"
+    }
+  },
+  {
+    "name": "OB",
+    "content": {
+      "full_name": "Occult Blood Test",
+      "description": "隐血试验"
+    }
+  },
+  {
+    "name": "OIS",
+    "content": {
+      "full_name": "Oncology Information System",
+      "description": "肿瘤信息系统"
+    }
+  },
+  {
+    "name": "OPC",
+    "content": {
+      "full_name": "Oropharyngeal Cancer",
+      "description": "口咽癌"
+    }
+  },
+  {
+    "name": "ORR",
+    "content": {
+      "full_name": "Objective Response Rate",
+      "description": "客观缓解率"
+    }
+  },
+  {
+    "name": "OS",
+    "content": {
+      "full_name": "Overall Survival",
+      "description": "总生存期"
+    }
+  },
+  {
+    "name": "PBS",
+    "content": {
+      "full_name": "Pencil Beam Scanning",
+      "description": "笔形束扫描"
+    }
+  },
+  {
+    "name": "PCI",
+    "content": {
+      "full_name": "Percutaneous Coronary Intervention",
+      "description": "经皮冠状动脉介入治疗"
+    }
+  },
+  {
+    "name": "PCNL",
+    "content": {
+      "full_name": "Percutaneous Nephrolithotripsy",
+      "description": "经皮肾镜碎石取石术"
+    }
+  },
+  {
+    "name": "PCR",
+    "content": {
+      "full_name": "Polymerase Chain Reaction",
+      "description": "聚合酶链式反应"
+    }
+  },
+  {
+    "name": "PD",
+    "content": {
+      "full_name": "Progressive Disease",
+      "description": "疾病进展"
+    }
+  },
+  {
+    "name": "PET",
+    "content": {
+      "full_name": "Positron Emission Tomography",
+      "description": "正电子发射断层扫描"
+    }
+  },
+  {
+    "name": "PFS",
+    "content": {
+      "full_name": "Progression-free Survival",
+      "description": "无进展生存期"
+    }
+  },
+  {
+    "name": "PIVH",
+    "content": {
+      "full_name": "Periventricular-intraventricular Hemorrhage",
+      "description": "脑室周围-脑室内出血"
+    }
+  },
+  {
+    "name": "PLT",
+    "content": {
+      "full_name": "Platelet",
+      "description": "血小板"
+    }
+  },
+  {
+    "name": "PN",
+    "content": {
+      "full_name": "Preferred Name",
+      "description": "首选名称"
+    }
+  },
+  {
+    "name": "PPS",
+    "content": {
+      "full_name": "Per-Protocol Set",
+      "description": "符合方案集"
+    }
+  },
+  {
+    "name": "PR",
+    "content": {
+      "full_name": "Partial Response",
+      "description": "部分缓解"
+    }
+  },
+  {
+    "name": "PRO",
+    "content": {
+      "full_name": "Proteinuria",
+      "description": "尿蛋白"
+    }
+  },
+  {
+    "name": "PRV",
+    "content": {
+      "full_name": "Planning Organ-at-Risk Volume",
+      "description": "计划危及器官"
+    }
+  },
+  {
+    "name": "PSA",
+    "content": {
+      "full_name": "Prostate Specific Antigen",
+      "description": "前列腺特异抗原"
+    }
+  },
+  {
+    "name": "PSI",
+    "content": {
+      "full_name": "Paul Scherrer Institute",
+      "description": "瑞士保罗谢勒研究所"
+    }
+  },
+  {
+    "name": "PT",
+    "content": [
+      {
+        "full_name": "Preferred Terms",
+        "description": "首选术语"
+      },
+      {
+        "full_name": "Prothrombin Time",
+        "description": "凝血酶原时间"
+      }
+    ]
+  },
+  {
+    "name": "PTC",
+    "content": {
+      "full_name": "Proton Treatment Console",
+      "description": "质子治疗控制台"
+    }
+  },
+  {
+    "name": "PTV",
+    "content": {
+      "full_name": "Planning Target Volume",
+      "description": "计划靶区"
+    }
+  },
+  {
+    "name": "PVI",
+    "content": {
+      "full_name": "Pulmonary Vein Isolation",
+      "description": "肺静脉隔离"
+    }
+  },
+  {
     "name": "RECIST",
     "content": {
       "full_name": "Response Evaluation Criteria in Solid Tumors",
@@ -772,62 +1002,6 @@
     }
   },
   {
-    "name": "VMAT",
-    "content": {
-      "full_name": "Volumetric-Modulated Arc Therapy",
-      "description": "容积旋转调强放疗"
-    }
-  },
-  {
-    "name": "DICOM",
-    "content": {
-      "full_name": "Digital Imaging and Communications in Medicine",
-      "description": "医学数字成像和通信"
-    }
-  },
-  {
-    "name": "NCCT",
-    "content": {
-      "full_name": "Non-contrast CT",
-      "description": "非增强 CT"
-    }
-  },
-  {
-    "name": "MRU",
-    "content": {
-      "full_name": "Magnetic Resonance Urography",
-      "description": "磁共振泌尿系水成像"
-    }
-  },
-  {
-    "name": "KUB",
-    "content": {
-      "full_name": "Plain Film of Kidney, Ureter and Bladder",
-      "description": "尿路平片"
-    }
-  },
-  {
-    "name": "IVU",
-    "content": {
-      "full_name": "Intravenous Urography",
-      "description": "静脉尿路造影"
-    }
-  },
-  {
-    "name": "ESWL",
-    "content": {
-      "full_name": "Extracorporeal Shock Wave Lithotripsy",
-      "description": "体外冲击波碎石"
-    }
-  },
-  {
-    "name": "PCNL",
-    "content": {
-      "full_name": "Percutaneous Nephrolithotripsy",
-      "description": "经皮肾镜碎石取石术"
-    }
-  },
-  {
     "name": "URL",
     "content": {
       "full_name": "Ureteroscope Lithotripsy",
@@ -835,184 +1009,10 @@
     }
   },
   {
-    "name": "OAR",
+    "name": "VMAT",
     "content": {
-      "full_name": "Organ at Risk ",
-      "description": "危及器官"
-    }
-  },
-  {
-    "name": "OB",
-    "content": {
-      "full_name": "Occult Blood Test ",
-      "description": "隐血试验"
-    }
-  },
-  {
-    "name": "OIS",
-    "content": {
-      "full_name": "Oncology Information System ",
-      "description": "肿瘤信息系统"
-    }
-  },
-  {
-    "name": "OPC",
-    "content": {
-      "full_name": "Oropharyngeal Cancer ",
-      "description": "口咽癌"
-    }
-  },
-  {
-    "name": "ORR",
-    "content": {
-      "full_name": "Objective Response Rate ",
-      "description": "客观缓解率"
-    }
-  },
-  {
-    "name": "OS",
-    "content": {
-      "full_name": "Overall Survival ",
-      "description": "总生存期"
-    }
-  },
-  {
-    "name": "PBS",
-    "content": {
-      "full_name": "Pencil Beam Scanning ",
-      "description": "笔形束扫描"
-    }
-  },
-  {
-    "name": "PCI",
-    "content": {
-      "full_name": "Percutaneous Coronary Intervention",
-      "description": "经皮冠状动脉介入治疗"
-    }
-  },
-  {
-    "name": "PCR",
-    "content": {
-      "full_name": "Polymerase Chain Reaction",
-      "description": "聚合酶链式反应"
-    }
-  },
-  {
-    "name": "PD",
-    "content": {
-      "full_name": "Progressive Disease ",
-      "description": "疾病进展"
-    }
-  },
-  {
-    "name": "PET",
-    "content": {
-      "full_name": "Positron Emission Tomography  ",
-      "description": "正电子发射断层扫描"
-    }
-  },
-  {
-    "name": "PFS",
-    "content": {
-      "full_name": "Progression-free Survival ",
-      "description": "无进展生存期"
-    }
-  },
-  {
-    "name": "PIVH",
-    "content": {
-      "full_name": "Periventricular-intraventricular Hemorrhage ",
-      "description": "脑室周围-脑室内出血"
-    }
-  },
-  {
-    "name": "PLT",
-    "content": {
-      "full_name": "Platelet",
-      "description": "血小板"
-    }
-  },
-  {
-    "name": "PN",
-    "content": {
-      "full_name": "Preferred Name",
-      "description": "首选名称"
-    }
-  },
-  {
-    "name": "PPS",
-    "content": {
-      "full_name": "Per-Protocol Set ",
-      "description": "符合方案集"
-    }
-  },
-  {
-    "name": "PR",
-    "content": {
-      "full_name": " Partial Response ",
-      "description": "部分缓解"
-    }
-  },
-  {
-    "name": "PRO",
-    "content": {
-      "full_name": " Proteinuria ",
-      "description": "尿蛋白"
-    }
-  },
-  {
-    "name": "PRV",
-    "content": {
-      "full_name": " Planning Organ-at-Risk Volume ",
-      "description": "计划危及器官"
-    }
-  },
-  {
-    "name": "PSA",
-    "content": {
-      "full_name": " Prostate Specific Antigen ",
-      "description": "前列腺特异抗原"
-    }
-  },
-  {
-    "name": "PSI",
-    "content": {
-      "full_name": "  Paul Scherrer Institute  ",
-      "description": "瑞士保罗谢勒研究所"
-    }
-  },
-  {
-    "name": "PT",
-    "content": [
-      {
-        "full_name": "   Preferred Terms    ",
-        "description": "首选术语"
-      },
-      {
-        "full_name": "   Prothrombin Time    ",
-        "description": "凝血酶原时间"
-      }
-    ]
-  },
-  {
-    "name": "PTC",
-    "content": {
-      "full_name": "  Proton Treatment Console    ",
-      "description": "质子治疗控制台"
-    }
-  },
-  {
-    "name": "PTV",
-    "content": {
-      "full_name": " Planning Target Volume    ",
-      "description": "计划靶区 "
-    }
-  },
-  {
-    "name": "PVI",
-    "content": {
-      "full_name": " Pulmonary Vein Isolation  ",
-      "description": "肺静脉隔离 "
+      "full_name": "Volumetric-Modulated Arc Therapy",
+      "description": "容积旋转调强放疗"
     }
   }
 ]
