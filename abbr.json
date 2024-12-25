@@ -18,7 +18,7 @@
     "content": [
       {
         "full_name": "Activities of Daily Living",
-        "description": "日常活动"
+        "description": "工具性日常活动"
       }
     ]
   },
@@ -751,6 +751,13 @@
     }
   },
   {
+    "name": "MSTS",
+    "content": {
+      "full_name": "The Musculoskeletal Tumor Society",
+      "description": "世界骨与软组织肿瘤协会"
+    }
+  },
+  {
     "name": "NBNA",
     "content": {
       "full_name": "Neonatal Behavioral Neurological Assessment",
@@ -962,10 +969,16 @@
   },
   {
     "name": "PSI",
-    "content": {
-      "full_name": "Paul Scherrer Institute",
-      "description": "瑞士保罗谢勒研究所"
-    }
+    "content": [
+      {
+        "full_name": "Patient Specific Instrumentation",
+        "description": "个性化截骨导板"
+      },
+      {
+        "full_name": "Paul Scherrer Institute",
+        "description": "瑞士保罗谢勒研究所"
+      }
+    ]
   },
   {
     "name": "PT",
@@ -1125,6 +1138,13 @@
     "content": {
       "full_name": "Sum of Longest Diameter",
       "description": "肿瘤最长径总和"
+    }
+  },
+  {
+    "name": "SN",
+    "content": {
+      "full_name": "Surgical Navigation",
+      "description": "手术导航"
     }
   },
   {

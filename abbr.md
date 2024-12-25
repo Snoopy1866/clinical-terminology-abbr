@@ -4,7 +4,7 @@
 | --------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------- |
 | 2019-nCoV | 2019-Novel Coronavirus                                                                                 | 新型冠状病毒                           |
 | 3DCRT     | 3-Dimensional Conformal Radiation Therapy                                                              | 三维适形放射治疗                       |
-| ADL       | Activities of Daily Living                                                                             | 日常活动                               |
+| ADL       | Activities of Daily Living                                                                             | 工具性日常活动                         |
 | AE        | Adverse Events                                                                                         | 不良事件                               |
 | AF        | Atrial Fibrillation                                                                                    | 心房颤动                               |
 | AIMS      | Alberta Infant Motor Scale                                                                             | Alberta 婴儿运动量表                   |
@@ -109,6 +109,7 @@
 | MedDRA    | Medical Dictionary for Regulatory Activities                                                           | 监管活动医学词典                       |
 | MRI       | Magnetic Resonance Imaging                                                                             | 磁共振成像                             |
 | MRU       | Magnetic Resonance Urography                                                                           | 磁共振泌尿系水成像                     |
+| MSTS      | The Musculoskeletal Tumor Society                                                                      | 世界骨与软组织肿瘤协会                 |
 | NBNA      | Neonatal Behavioral Neurological Assessment                                                            | 新生儿神经行为测定                     |
 | NCCT      | Non-contrast CT                                                                                        | 非增强 CT                              |
 | NCS       | Not Clinically Significant                                                                             | 无临床意义                             |
@@ -139,7 +140,8 @@
 | PRO       | Proteinuria                                                                                            | 尿蛋白                                 |
 | PRV       | Planning Organ-at-Risk Volume                                                                          | 计划危及器官                           |
 | PSA       | Prostate Specific Antigen                                                                              | 前列腺特异抗原                         |
-| PSI       | Paul Scherrer Institute                                                                                | 瑞士保罗谢勒研究所                     |
+| PSI       | Patient Specific Instrumentation                                                                       | 个性化截骨导板                         |
+|           | Paul Scherrer Institute                                                                                | 瑞士保罗谢勒研究所                     |
 | PT        | Preferred Terms                                                                                        | 首选术语                               |
 |           | Prothrombin Time                                                                                       | 凝血酶原时间                           |
 | PTC       | Proton Treatment Console                                                                               | 质子治疗控制台                         |
@@ -163,6 +165,7 @@
 | SD        | Stable Disease                                                                                         | 疾病稳定                               |
 | SDV       | Source Data Validation                                                                                 | 原始数据核查                           |
 | SLD       | Sum of Longest Diameter                                                                                | 肿瘤最长径总和                         |
+| SN        | Surgical Navigation                                                                                    | 手术导航                               |
 | SOBP      | Spread-out Bragg Peak                                                                                  | 扩展布拉格峰                           |
 | SOC       | System Organ Class                                                                                     | 系统器官分类                           |
 | SOP       | Standard Operating Procedure                                                                           | 标准操作规程                           |
