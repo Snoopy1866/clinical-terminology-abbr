@@ -962,10 +962,16 @@
   },
   {
     "name": "PSI",
-    "content": {
-      "full_name": "Paul Scherrer Institute",
-      "description": "瑞士保罗谢勒研究所"
-    }
+    "content": [
+      {
+        "full_name": "Paul Scherrer Institute",
+        "description": "瑞士保罗谢勒研究所"
+      },
+      {
+        "full_name": "Patient Specific Instrumentation",
+        "description": "个性化截骨导板"
+      }
+    ]
   },
   {
     "name": "PT",
@@ -1300,13 +1306,6 @@
     "content": {
       "full_name": "Surgical Navigation",
       "description": "手术导航"
-    }
-  },
-  {
-    "name": "PSI",
-    "content": {
-      "full_name": "Patient Specific Instrumentation",
-      "description": "个性化截骨导板"
     }
   },
   {
