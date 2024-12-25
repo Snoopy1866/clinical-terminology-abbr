@@ -18,7 +18,7 @@
     "content": [
       {
         "full_name": "Activities of Daily Living",
-        "description": "日常活动"
+        "description": "工具性日常活动"
       }
     ]
   },
@@ -1293,6 +1293,27 @@
     "content": {
       "full_name": "Wrinkle Severity Rating Scale",
       "description": "皱纹严重程度分级"
+    }
+  },
+  {
+    "name": "SN",
+    "content": {
+      "full_name": "Surgical Navigation",
+      "description": "手术导航"
+    }
+  },
+  {
+    "name": "PSI",
+    "content": {
+      "full_name": "Patient Specific Instrumentation",
+      "description": "个性化截骨导板"
+    }
+  },
+  {
+    "name": "MSTS",
+    "content": {
+      "full_name": "The Musculoskeletal Tumor Society",
+      "description": "世界骨与软组织肿瘤协会"
     }
   }
 ]
