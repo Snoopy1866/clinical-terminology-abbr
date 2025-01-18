@@ -14,6 +14,13 @@
     }
   },
   {
+    "name": "5-ALA",
+    "content": {
+      "full_name": "5-Aminolevulinic Acid",
+      "description": "5-氨基乙酰丙酸"
+    }
+  },
+  {
     "name": "ADL",
     "content": [
       {
@@ -72,10 +79,24 @@
     }
   },
   {
+    "name": "AS",
+    "content": {
+      "full_name": "Autologous Serum",
+      "description": "自体血清"
+    }
+  },
+  {
     "name": "AST",
     "content": {
       "full_name": "Aspartate Aminotransferase",
       "description": "谷草转氨酶"
+    }
+  },
+  {
+    "name": "AT",
+    "content": {
+      "full_name": "Artificial Tears",
+      "description": "人工泪液"
     }
   },
   {
@@ -90,6 +111,13 @@
     "content": {
       "full_name": "Area Under Curve",
       "description": "曲线下面积"
+    }
+  },
+  {
+    "name": "BTS",
+    "content": {
+      "full_name": "Beam Transport System",
+      "description": "束流传输系统"
     }
   },
   {
@@ -142,6 +170,13 @@
     }
   },
   {
+    "name": "CFS",
+    "content": {
+      "full_name": "Corneal Fluorescence Stain",
+      "description": "角膜荧光素染色"
+    }
+  },
+  {
     "name": "CH",
     "content": {
       "full_name": "Chordoma",
@@ -160,6 +195,13 @@
     "content": {
       "full_name": "Creatine Kinase Isoenzymes-MB",
       "description": "肌酸激酶同工酶"
+    }
+  },
+  {
+    "name": "CMDE",
+    "content": {
+      "full_name": "Center for Medical Device Evaluation",
+      "description": "医疗器械技术审评中心"
     }
   },
   {
@@ -202,6 +244,13 @@
     "content": {
       "full_name": "Case Report Form",
       "description": "病例报告表"
+    }
+  },
+  {
+    "name": "CRP",
+    "content": {
+      "full_name": "C-Reactive Protein",
+      "description": "C 反应蛋白"
     }
   },
   {
@@ -373,6 +422,13 @@
     }
   },
   {
+    "name": "EDS",
+    "content": {
+      "full_name": "Eye Dryness Score",
+      "description": "眼睛干燥评分"
+    }
+  },
+  {
     "name": "EHRA",
     "content": {
       "full_name": "European Heart Rhythm Association",
@@ -394,6 +450,13 @@
     }
   },
   {
+    "name": "ESR",
+    "content": {
+      "full_name": "Erythrocyte Sedimentation Rate",
+      "description": "红细胞沉降率"
+    }
+  },
+  {
     "name": "ESWL",
     "content": {
       "full_name": "Extracorporeal Shock Wave Lithotripsy",
@@ -405,6 +468,13 @@
     "content": {
       "full_name": "Full Analysis Set",
       "description": "全分析集"
+    }
+  },
+  {
+    "name": "FBUT",
+    "content": {
+      "full_name": "Fluorescein Tear Break-Up Time",
+      "description": "荧光素染色泪膜破裂时间"
     }
   },
   {
@@ -422,10 +492,45 @@
     }
   },
   {
+    "name": "fMRI",
+    "content": {
+      "full_name": "Functional MRI",
+      "description": "功能 MRI"
+    }
+  },
+  {
     "name": "FPG",
     "content": {
       "full_name": "Fasting Plasma Glucose",
       "description": "空腹血糖"
+    }
+  },
+  {
+    "name": "FT3",
+    "content": {
+      "full_name": "Free Triiodothyronine",
+      "description": "游离三碘甲腺原氨酸"
+    }
+  },
+  {
+    "name": "FT4",
+    "content": {
+      "full_name": "Free Thyroxine",
+      "description": "游离甲状腺素"
+    }
+  },
+  {
+    "name": "FWS",
+    "content": {
+      "full_name": "Facial Wrinkle Scale",
+      "description": "面部皱纹量表"
+    }
+  },
+  {
+    "name": "GAD",
+    "content": {
+      "full_name": "Generalized Anxiexy Disorde",
+      "description": "广泛性焦虑障碍量表"
     }
   },
   {
@@ -447,6 +552,13 @@
     "content": {
       "full_name": "Gross Tumor Volume",
       "description": "大体肿瘤区"
+    }
+  },
+  {
+    "name": "H&E",
+    "content": {
+      "full_name": "Hematoxylin-Eosin",
+      "description": "苏木精伊红"
     }
   },
   {
@@ -492,6 +604,13 @@
     }
   },
   {
+    "name": "HDL",
+    "content": {
+      "full_name": "High-Density Lipoprotein",
+      "description": "高密度脂蛋白"
+    }
+  },
+  {
     "name": "Hgb",
     "content": {
       "full_name": "Hemoglobin",
@@ -524,6 +643,13 @@
     "content": {
       "full_name": "Human Immunodeficiency Virus",
       "description": "人类免疫缺陷病毒"
+    }
+  },
+  {
+    "name": "HKA",
+    "content": {
+      "full_name": "Hip-Knee-Ankle Angle",
+      "description": "髋-膝-踝角"
     }
   },
   {
@@ -562,6 +688,13 @@
     }
   },
   {
+    "name": "ICG",
+    "content": {
+      "full_name": "Indocyanine Green",
+      "description": "吲哚菁绿"
+    }
+  },
+  {
     "name": "ICH",
     "content": {
       "full_name": "The International Council for Harmonisation of Technical Requirement for Pharmaceuticals for Human Use",
@@ -597,6 +730,13 @@
     }
   },
   {
+    "name": "iMRI",
+    "content": {
+      "full_name": "Intraoperative MRI",
+      "description": "术中 MRI"
+    }
+  },
+  {
     "name": "IMRT",
     "content": {
       "full_name": "Intensity Modulated Radiation Therapy",
@@ -608,6 +748,13 @@
     "content": {
       "full_name": "International Normalized Ratio",
       "description": "国际标准化比值"
+    }
+  },
+  {
+    "name": "IPD",
+    "content": {
+      "full_name": "Important Protocol Deviations",
+      "description": "重要方案偏离"
     }
   },
   {
@@ -625,6 +772,13 @@
     }
   },
   {
+    "name": "iUS",
+    "content": {
+      "full_name": "Intraoperative Ultrasound",
+      "description": "术中超声"
+    }
+  },
+  {
     "name": "IVU",
     "content": {
       "full_name": "Intravenous Urography",
@@ -636,6 +790,20 @@
     "content": {
       "full_name": "Interactive Web Response System",
       "description": "中央随机系统"
+    }
+  },
+  {
+    "name": "KOA",
+    "content": {
+      "full_name": "Knee Osteoarthritis",
+      "description": "膝骨关节炎"
+    }
+  },
+  {
+    "name": "KSS",
+    "content": {
+      "full_name": "Knee Society Score",
+      "description": "膝关节协会评分"
     }
   },
   {
@@ -658,6 +826,15 @@
       "full_name": "Local Control",
       "description": "局部控制率"
     }
+  },
+  {
+    "name": "LDL",
+    "content": [
+      {
+        "full_name": "Low-Density Lipoprotein",
+        "description": "低密度脂蛋白"
+      }
+    ]
   },
   {
     "name": "LET",
@@ -723,6 +900,15 @@
     }
   },
   {
+    "name": "MCI",
+    "content": [
+      {
+        "full_name": "Mild Cognitive Impairment",
+        "description": "轻度认知功能障碍"
+      }
+    ]
+  },
+  {
     "name": "MDT",
     "content": {
       "full_name": "Multidisciplinary Treatment",
@@ -734,6 +920,20 @@
     "content": {
       "full_name": "Medical Dictionary for Regulatory Activities",
       "description": "监管活动医学词典"
+    }
+  },
+  {
+    "name": "MMSE",
+    "content": {
+      "full_name": "Mini-Mental State Examination",
+      "description": "简易精神状态评价量表"
+    }
+  },
+  {
+    "name": "MOCA",
+    "content": {
+      "full_name": "Montreal Cognitive Assessment",
+      "description": "蒙特利尔认知评估表"
     }
   },
   {
@@ -776,6 +976,13 @@
     "content": {
       "full_name": "Not Clinically Significant",
       "description": "无临床意义"
+    }
+  },
+  {
+    "name": "NEI",
+    "content": {
+      "full_name": "National Eye Institute",
+      "description": "美国国立眼科研究所"
     }
   },
   {
@@ -863,6 +1070,13 @@
     }
   },
   {
+    "name": "OSDI",
+    "content": {
+      "full_name": "Ocular Surface Disease Index",
+      "description": "眼表疾病指数量表"
+    }
+  },
+  {
     "name": "PBS",
     "content": {
       "full_name": "Pencil Beam Scanning",
@@ -874,6 +1088,13 @@
     "content": {
       "full_name": "Percutaneous Coronary Intervention",
       "description": "经皮冠状动脉介入治疗"
+    }
+  },
+  {
+    "name": "PCL",
+    "content": {
+      "full_name": "Posterior Cruciate Ligament",
+      "description": "后交叉韧带"
     }
   },
   {
@@ -909,6 +1130,13 @@
     "content": {
       "full_name": "Progression-Free Survival",
       "description": "无进展生存期"
+    }
+  },
+  {
+    "name": "PHQ",
+    "content": {
+      "full_name": "Patient Health Questionnaire",
+      "description": "抑郁症筛查量表"
     }
   },
   {
@@ -962,10 +1190,16 @@
   },
   {
     "name": "PSA",
-    "content": {
-      "full_name": "Prostate Specific Antigen",
-      "description": "前列腺特异抗原"
-    }
+    "content": [
+      {
+        "full_name": "Posterior Slope Angle",
+        "description": "后倾角"
+      },
+      {
+        "full_name": "Prostate Specific Antigen",
+        "description": "前列腺特异抗原"
+      }
+    ]
   },
   {
     "name": "PSI",
@@ -1001,6 +1235,13 @@
     }
   },
   {
+    "name": "PTCOG",
+    "content": {
+      "full_name": "Particle Therapy Co-Operative Group",
+      "description": "国际粒子治疗协作委员会"
+    }
+  },
+  {
     "name": "PTV",
     "content": {
       "full_name": "Planning Target Volume",
@@ -1022,10 +1263,17 @@
     }
   },
   {
-    "name": "QOL",
+    "name": "QoL",
     "content": {
       "full_name": "Quality of Life",
       "description": "生活质量"
+    }
+  },
+  {
+    "name": "RA",
+    "content": {
+      "full_name": "Rheumatoid Arthritis",
+      "description": "类风湿性关节炎"
     }
   },
   {
@@ -1047,6 +1295,20 @@
     "content": {
       "full_name": "Response Evaluation Criteria in Solid Tumors",
       "description": "实体肿瘤的疗效评价标准"
+    }
+  },
+  {
+    "name": "RF",
+    "content": {
+      "full_name": "Rheumatoid Factor",
+      "description": "类风湿因子"
+    }
+  },
+  {
+    "name": "ROM",
+    "content": {
+      "full_name": "Range of Motion",
+      "description": "活动度"
     }
   },
   {
@@ -1134,6 +1396,20 @@
     }
   },
   {
+    "name": "SF",
+    "content": {
+      "full_name": "Sodium Fluorescein",
+      "description": "荧光素钠"
+    }
+  },
+  {
+    "name": "SF-12",
+    "content": {
+      "full_name": "12-Item Short-Form Health Survey",
+      "description": "12 项健康调查简表"
+    }
+  },
+  {
     "name": "SLD",
     "content": {
       "full_name": "Sum of Longest Diameter",
@@ -1190,6 +1466,20 @@
     }
   },
   {
+    "name": "TBUT",
+    "content": {
+      "full_name": "Tear Break-Up Time",
+      "description": "泪膜破裂时间"
+    }
+  },
+  {
+    "name": "TC",
+    "content": {
+      "full_name": "Serum Total Cholesterol",
+      "description": "血清总胆固醇"
+    }
+  },
+  {
     "name": "TCT",
     "content": {
       "full_name": "Thin-Layer Cytological Test",
@@ -1211,10 +1501,45 @@
     }
   },
   {
+    "name": "TG",
+    "content": {
+      "full_name": "Triacylglycerol",
+      "description": "甘油三酯"
+    }
+  },
+  {
+    "name": "TKA",
+    "content": {
+      "full_name": "Total Knee Arthroplasty",
+      "description": "全膝关节置换术"
+    }
+  },
+  {
     "name": "TNM",
     "content": {
       "full_name": "Tumor, Node, Metastasis",
       "description": "肿瘤、淋巴结、转移"
+    }
+  },
+  {
+    "name": "TP",
+    "content": {
+      "full_name": "Syphilis",
+      "description": "梅毒"
+    }
+  },
+  {
+    "name": "TPS",
+    "content": {
+      "full_name": "Talaporfin Sodium",
+      "description": "他拉泊芬钠"
+    }
+  },
+  {
+    "name": "TSH",
+    "content": {
+      "full_name": "Thyroid Stlmulating Hormone",
+      "description": "促甲状腺素"
     }
   },
   {
