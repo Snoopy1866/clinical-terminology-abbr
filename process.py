@@ -67,31 +67,6 @@ def json2md(abbr_list: list[Abbr]) -> str:
     return md
 
 
-def title_case(name: str) -> str:
-    # 一些特殊的缩写词应该保留原样
-    exceptions = ["CT", "Isoenzymes-MB", "MRI", "Organ-at-Risk", "WHO"]
-    # 助词、连词、介词、冠词、代词应该保持小写
-    exceptions += [
-        "a",
-        "an",
-        "the",
-        "and",
-        "or",
-        "for",
-        "at",
-        "for",
-        "in",
-        "of",
-        "on",
-        "to",
-        "with",
-    ]
-
-    words = name.split()
-    title_cased_words = [word if word in exceptions else word.title() for word in words]
-    return " ".join(title_cased_words)
-
-
 # 检查是否有重复的缩写词
 def check_duplicate(abbr_list: list[Abbr]) -> None:
     abbr_name_list = [abbr.name for abbr in abbr_list]
@@ -115,14 +90,6 @@ if __name__ == "__main__":
         if isinstance(abbr.content, list):
             abbr.content.sort(key=lambda x: x.full_name.lower())
     abbr_list.sort(key=lambda x: x.name.lower())
-
-    # 大写转换
-    for abbr in abbr_list:
-        if isinstance(abbr.content, Content):
-            abbr.content.full_name = title_case(abbr.content.full_name)
-        else:
-            for content in abbr.content:
-                content.full_name = title_case(content.full_name)
 
     # 回写 json 文件
     with open("abbr.json", "w+", encoding="utf-8") as f:
