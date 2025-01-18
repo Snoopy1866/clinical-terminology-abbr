@@ -109,7 +109,7 @@
   {
     "name": "CBCT",
     "content": {
-      "full_name": "Cone beam CT",
+      "full_name": "Cone Beam CT",
       "description": "锥形束 CT"
     }
   },
@@ -172,7 +172,7 @@
   {
     "name": "CNS5",
     "content": {
-      "full_name": "The fifth edition of the WHO Classification of Tumors of the Central Nervous System",
+      "full_name": "The Fifth Edition of the WHO Classification of Tumors of the Central Nervous System",
       "description": "第五版世界卫生组织中枢神经系统肿瘤分类"
     }
   },
@@ -501,7 +501,7 @@
   {
     "name": "HIE",
     "content": {
-      "full_name": "Hypoxic-ischemia Encephalopathy",
+      "full_name": "Hypoxic-Ischemia Encephalopathy",
       "description": "重度缺氧缺血性脑病"
     }
   },
@@ -697,7 +697,7 @@
   {
     "name": "LVEDV",
     "content": {
-      "full_name": "Left Ventricular End-diastolic Volume",
+      "full_name": "Left Ventricular End-Diastolic Volume",
       "description": "舒张末期容积"
     }
   },
@@ -711,7 +711,7 @@
   {
     "name": "LVESV",
     "content": {
-      "full_name": "Left Ventricular End-systolic Volume",
+      "full_name": "Left Ventricular End-Systolic Volume",
       "description": "收缩末期容积"
     }
   },
@@ -767,7 +767,7 @@
   {
     "name": "NCCT",
     "content": {
-      "full_name": "Non-contrast CT",
+      "full_name": "Non-Contrast CT",
       "description": "非增强 CT"
     }
   },
@@ -907,14 +907,14 @@
   {
     "name": "PFS",
     "content": {
-      "full_name": "Progression-free Survival",
+      "full_name": "Progression-Free Survival",
       "description": "无进展生存期"
     }
   },
   {
     "name": "PIVH",
     "content": {
-      "full_name": "Periventricular-intraventricular Hemorrhage",
+      "full_name": "Periventricular-Intraventricular Hemorrhage",
       "description": "脑室周围-脑室内出血"
     }
   },
@@ -1150,7 +1150,7 @@
   {
     "name": "SOBP",
     "content": {
-      "full_name": "Spread-out Bragg Peak",
+      "full_name": "Spread-Out Bragg Peak",
       "description": "扩展布拉格峰"
     }
   },
@@ -1192,7 +1192,7 @@
   {
     "name": "TCT",
     "content": {
-      "full_name": "Thin-layer Cytological Test",
+      "full_name": "Thin-Layer Cytological Test",
       "description": "液基薄层细胞检测"
     }
   },
