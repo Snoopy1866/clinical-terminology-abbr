@@ -17,7 +17,7 @@
 | AUC       | Area Under Curve                                                                                       | 曲线下面积                             |
 | BUN       | Blood Urea Nitrogen                                                                                    | 尿素氮                                 |
 | CABG      | Coronary Artery Bypass Grafting                                                                        | 冠状动脉旁路移植术                     |
-| CBCT      | Cone beam CT                                                                                           | 锥形束 CT                              |
+| CBCT      | Cone Beam CT                                                                                           | 锥形束 CT                              |
 | CC        | Cervical Cancer                                                                                        | 宫颈癌                                 |
 | Ccr       | Endogenous Creatinine Clearance Rate                                                                   | 肌酐清除率                             |
 | CCS       | Canadian Cardiovascular Society                                                                        | 加拿大心血管学会                       |
@@ -26,7 +26,7 @@
 | CI        | Confidence Interval                                                                                    | 置信区间                               |
 | CK-MB     | Creatine Kinase Isoenzymes-MB                                                                          | 肌酸激酶同工酶                         |
 | CMH       | Cochran Mantel Haenszel                                                                                | Cochran-Mantel-Haenszel 检验           |
-| CNS5      | The fifth edition of the WHO Classification of Tumors of the Central Nervous System                    | 第五版世界卫生组织中枢神经系统肿瘤分类 |
+| CNS5      | The Fifth Edition of the WHO Classification of Tumors of the Central Nervous System                    | 第五版世界卫生组织中枢神经系统肿瘤分类 |
 | CP        | Child-Pugh                                                                                             | 肝功能分级                             |
 | CR        | Complete Response                                                                                      | 完全缓解                               |
 | CRA       | Clinical Research Associate                                                                            | 临床监查员                             |
@@ -73,7 +73,7 @@
 | HCT       | Hematocrit                                                                                             | 血细胞比容                             |
 | HCV       | Hepatitis Virus C                                                                                      | 丙型肝炎病毒                           |
 | Hgb       | Hemoglobin                                                                                             | 血红蛋白                               |
-| HIE       | Hypoxic-ischemia Encephalopathy                                                                        | 重度缺氧缺血性脑病                     |
+| HIE       | Hypoxic-Ischemia Encephalopathy                                                                        | 重度缺氧缺血性脑病                     |
 | HINE      | Hammersmith Infant Neurological Examination                                                            | Hammersmith 婴幼儿神经学检查           |
 | HIS       | Hospital Information System                                                                            | 计算机信息系统                         |
 | HIV       | Human Immunodeficiency Virus                                                                           | 人类免疫缺陷病毒                       |
@@ -101,9 +101,9 @@
 | LGG       | Low-Grade Glioma                                                                                       | 低级别胶质瘤                           |
 | LLT       | Lowest Level Terms                                                                                     | 低位语                                 |
 | LOCF      | Last Observation Carried Forward                                                                       | 末次观测值结转                         |
-| LVEDV     | Left Ventricular End-diastolic Volume                                                                  | 舒张末期容积                           |
+| LVEDV     | Left Ventricular End-Diastolic Volume                                                                  | 舒张末期容积                           |
 | LVEF      | Left Ventricular Ejection Fraction                                                                     | 左心室射血分数                         |
-| LVESV     | Left Ventricular End-systolic Volume                                                                   | 收缩末期容积                           |
+| LVESV     | Left Ventricular End-Systolic Volume                                                                   | 收缩末期容积                           |
 | Mb        | Myoglobin                                                                                              | 肌红蛋白                               |
 | MDT       | Multidisciplinary Treatment                                                                            | 多学科综合治疗                         |
 | MedDRA    | Medical Dictionary for Regulatory Activities                                                           | 监管活动医学词典                       |
@@ -111,7 +111,7 @@
 | MRU       | Magnetic Resonance Urography                                                                           | 磁共振泌尿系水成像                     |
 | MSTS      | The Musculoskeletal Tumor Society                                                                      | 世界骨与软组织肿瘤协会                 |
 | NBNA      | Neonatal Behavioral Neurological Assessment                                                            | 新生儿神经行为测定                     |
-| NCCT      | Non-contrast CT                                                                                        | 非增强 CT                              |
+| NCCT      | Non-Contrast CT                                                                                        | 非增强 CT                              |
 | NCS       | Not Clinically Significant                                                                             | 无临床意义                             |
 | NEUT      | Neutrophil                                                                                             | 中性粒细胞                             |
 | NLFs      | Nasolabial Folds                                                                                       | 鼻唇沟皱纹                             |
@@ -131,8 +131,8 @@
 | PCR       | Polymerase Chain Reaction                                                                              | 聚合酶链式反应                         |
 | PD        | Progressive Disease                                                                                    | 疾病进展                               |
 | PET       | Positron Emission Tomography                                                                           | 正电子发射断层扫描                     |
-| PFS       | Progression-free Survival                                                                              | 无进展生存期                           |
-| PIVH      | Periventricular-intraventricular Hemorrhage                                                            | 脑室周围-脑室内出血                    |
+| PFS       | Progression-Free Survival                                                                              | 无进展生存期                           |
+| PIVH      | Periventricular-Intraventricular Hemorrhage                                                            | 脑室周围-脑室内出血                    |
 | PLT       | Platelet                                                                                               | 血小板                                 |
 | PN        | Preferred Name                                                                                         | 首选名称                               |
 | PPS       | Per-Protocol Set                                                                                       | 符合方案集                             |
@@ -166,13 +166,13 @@
 | SDV       | Source Data Validation                                                                                 | 原始数据核查                           |
 | SLD       | Sum of Longest Diameter                                                                                | 肿瘤最长径总和                         |
 | SN        | Surgical Navigation                                                                                    | 手术导航                               |
-| SOBP      | Spread-out Bragg Peak                                                                                  | 扩展布拉格峰                           |
+| SOBP      | Spread-Out Bragg Peak                                                                                  | 扩展布拉格峰                           |
 | SOC       | System Organ Class                                                                                     | 系统器官分类                           |
 | SOP       | Standard Operating Procedure                                                                           | 标准操作规程                           |
 | SS        | Safety Set                                                                                             | 安全性数据集                           |
 | STB       | Serum Total Bilirubin                                                                                  | 血清总胆红素                           |
 | SWI       | Susceptibility Weighted Imaging                                                                        | 磁敏感加权技术                         |
-| TCT       | Thin-layer Cytological Test                                                                            | 液基薄层细胞检测                       |
+| TCT       | Thin-Layer Cytological Test                                                                            | 液基薄层细胞检测                       |
 | TEAE      | Treatment Emergent Adverse Event                                                                       | 治疗期间不良事件                       |
 | TEE       | Transesophageal Echocardiography                                                                       | 经食管超声心动图                       |
 | TNM       | Tumor, Node, Metastasis                                                                                | 肿瘤、淋巴结、转移                     |
