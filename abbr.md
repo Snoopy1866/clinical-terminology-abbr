@@ -18,6 +18,7 @@
 | AT        | Artificial Tears                                                                                       | 人工泪液                               |
 | ATC       | Anatomical Therapeutic Chemical                                                                        | 解剖、治疗、化学                       |
 | AUC       | Area Under Curve                                                                                       | 曲线下面积                             |
+| BST       | Biostatistician                                                                                        | 生物统计师                             |
 | BTS       | Beam Transport System                                                                                  | 束流传输系统                           |
 | BUN       | Blood Urea Nitrogen                                                                                    | 尿素氮                                 |
 | CABG      | Coronary Artery Bypass Grafting                                                                        | 冠状动脉旁路移植术                     |
@@ -36,7 +37,9 @@
 | CP        | Child-Pugh                                                                                             | 肝功能分级                             |
 | CR        | Complete Response                                                                                      | 完全缓解                               |
 | CRA       | Clinical Research Associate                                                                            | 临床监查员                             |
+| CRC       | Clinical Research Coordinator                                                                          | 临床协调员                             |
 | CRF       | Case Report Form                                                                                       | 病例报告表                             |
+| CRO       | Clinical Research Coordinator                                                                          | 合同研究组织                           |
 | CRP       | C-Reactive Protein                                                                                     | C 反应蛋白                             |
 | CS        | Clinically Significant                                                                                 | 有临床意义                             |
 | CSWT      | Cardiac Shock Wave Therapy                                                                             | 心脏体外冲击波治疗                     |
@@ -46,9 +49,16 @@
 | cTn       | Cardiac Troponin                                                                                       | 肌钙蛋白                               |
 | CTV       | Clinical Target Volume                                                                                 | 临床靶区                               |
 | DART      | Dynamic Adaptive Radiation Therapy                                                                     | 动态适应的放疗技术                     |
+| DB        | Database                                                                                               | 数据库                                 |
+| DBL       | Database Lock                                                                                          | 数据库锁定                             |
 | DCR       | Disease Control Rate                                                                                   | 肿瘤疾病控制率                         |
+| DEG       | Data Entry Guideline                                                                                   | 数据填写指南                           |
 | DICOM     | Digital Imaging and Communications in Medicine                                                         | 医学数字成像和通信                     |
 | DIPS      | Digital Imaging Positioning System                                                                     | 数字化影像定位系统                     |
+| DM        | Data Manager                                                                                           | 数据管理员                             |
+| DMM       | Data Management Manager                                                                                | 数据管理经理                           |
+| DMP       | Data Management Plan                                                                                   | 数据管理计划                           |
+| DMR       | Data Management Report                                                                                 | 数据管理报告                           |
 | DNA       | Deoxyribonucleic Acid                                                                                  | 脱氧核糖核酸                           |
 | DOR       | Duration of Response                                                                                   | 持续缓解时间                           |
 | DRR       | Digitally Reconstruction Radiograph                                                                    | 数字重建的射线影像                     |
@@ -164,8 +174,10 @@
 | PET       | Positron Emission Tomography                                                                           | 正电子发射断层扫描                     |
 | PFS       | Progression-Free Survival                                                                              | 无进展生存期                           |
 | PHQ       | Patient Health Questionnaire                                                                           | 抑郁症筛查量表                         |
+| PI        | Principal Investigator                                                                                 | 主要研究者                             |
 | PIVH      | Periventricular-Intraventricular Hemorrhage                                                            | 脑室周围-脑室内出血                    |
 | PLT       | Platelet                                                                                               | 血小板                                 |
+| PM        | Project Manager                                                                                        | 临床研究项目经理                       |
 | PN        | Preferred Name                                                                                         | 首选名称                               |
 | PPS       | Per-Protocol Set                                                                                       | 符合方案集                             |
 | PR        | Partial Response                                                                                       | 部分缓解                               |
@@ -201,6 +213,7 @@
 | Scr       | Serum Creatinine                                                                                       | 肌酐                                   |
 | SD        | Stable Disease                                                                                         | 疾病稳定                               |
 | SDV       | Source Data Validation                                                                                 | 原始数据核查                           |
+|           | Source Data Verification                                                                               | 原始数据核查                           |
 | SF        | Sodium Fluorescein                                                                                     | 荧光素钠                               |
 | SF-12     | 12-Item Short-Form Health Survey                                                                       | 12 项健康调查简表                      |
 | SLD       | Sum of Longest Diameter                                                                                | 肿瘤最长径总和                         |
@@ -208,8 +221,10 @@
 | SOBP      | Spread-Out Bragg Peak                                                                                  | 扩展布拉格峰                           |
 | SOC       | System Organ Class                                                                                     | 系统器官分类                           |
 | SOP       | Standard Operating Procedure                                                                           | 标准操作规程                           |
+| SP        | Sponsor                                                                                                | 申办方                                 |
 | SS        | Safety Set                                                                                             | 安全性数据集                           |
 | STB       | Serum Total Bilirubin                                                                                  | 血清总胆红素                           |
+| Sub-I     | Subject Investigator                                                                                   | 助理研究者                             |
 | SWI       | Susceptibility Weighted Imaging                                                                        | 磁敏感加权技术                         |
 | TBUT      | Tear Break-Up Time                                                                                     | 泪膜破裂时间                           |
 | TC        | Serum Total Cholesterol                                                                                | 血清总胆固醇                           |
@@ -225,6 +240,7 @@
 | TT        | Thrombin Time                                                                                          | 凝血酶时间                             |
 | TTE       | Transthoracic Echocardiogram                                                                           | 经胸超声心动图                         |
 | TV        | Treated Volume                                                                                         | 治疗区                                 |
+| UAT       | User Acceptance Test                                                                                   | 用户接受测试                           |
 | UICC      | Union for International Cancer Control                                                                 | 国际抗癌联盟                           |
 | ULN       | Upper Limit of Normal                                                                                  | 正常值上限                             |
 | URL       | Ureteroscope Lithotripsy                                                                               | 输尿管镜碎石取石术                     |
