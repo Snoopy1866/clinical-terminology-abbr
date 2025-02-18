@@ -114,6 +114,13 @@
     }
   },
   {
+    "name": "BST",
+    "content": {
+      "full_name": "Biostatistician",
+      "description": "生物统计师"
+    }
+  },
+  {
     "name": "BTS",
     "content": {
       "full_name": "Beam Transport System",
@@ -233,13 +240,6 @@
     }
   },
   {
-    "name": "CRO",
-    "content": {
-      "full_name": "Clinical Research Coordinator",
-      "description": "合同研究组织"
-    }
-  },
-  {
     "name": "CRA",
     "content": {
       "full_name": "Clinical Research Associate",
@@ -247,10 +247,24 @@
     }
   },
   {
+    "name": "CRC",
+    "content": {
+      "full_name": "Clinical Research Coordinator",
+      "description": "临床协调员"
+    }
+  },
+  {
     "name": "CRF",
     "content": {
       "full_name": "Case Report Form",
       "description": "病例报告表"
+    }
+  },
+  {
+    "name": "CRO",
+    "content": {
+      "full_name": "Clinical Research Coordinator",
+      "description": "合同研究组织"
     }
   },
   {
@@ -265,55 +279,6 @@
     "content": {
       "full_name": "Clinically Significant",
       "description": "有临床意义"
-    }
-  },
-  {
-    "name": "DB",
-    "content": {
-      "full_name": "Database",
-      "description": "数据库"
-    }
-  },
-  {
-    "name": "DBL",
-    "content": {
-      "full_name": "Database Lock",
-      "description": "数据库锁定"
-    }
-  },
-  {
-    "name": "DEG",
-    "content": {
-      "full_name": "Data Entry Guideline",
-      "description": "数据填写指南"
-    }
-  },
-  {
-    "name": "DM",
-    "content": {
-      "full_name": "Data Manager",
-      "description": "数据管理员"
-    }
-  },
-  {
-    "name": "DMM",
-    "content": {
-      "full_name": "Data Management Manager",
-      "description": "数据管理经理"
-    }
-  },
-  {
-    "name": "DMP",
-    "content": {
-      "full_name": "Data Management Plan",
-      "description": "数据管理计划"
-    }
-  },
-  {
-    "name": "DMR",
-    "content": {
-      "full_name": "Data Management Report",
-      "description": "数据管理报告"
     }
   },
   {
@@ -366,10 +331,31 @@
     }
   },
   {
+    "name": "DB",
+    "content": {
+      "full_name": "Database",
+      "description": "数据库"
+    }
+  },
+  {
+    "name": "DBL",
+    "content": {
+      "full_name": "Database Lock",
+      "description": "数据库锁定"
+    }
+  },
+  {
     "name": "DCR",
     "content": {
       "full_name": "Disease Control Rate",
       "description": "肿瘤疾病控制率"
+    }
+  },
+  {
+    "name": "DEG",
+    "content": {
+      "full_name": "Data Entry Guideline",
+      "description": "数据填写指南"
     }
   },
   {
@@ -384,6 +370,34 @@
     "content": {
       "full_name": "Digital Imaging Positioning System",
       "description": "数字化影像定位系统"
+    }
+  },
+  {
+    "name": "DM",
+    "content": {
+      "full_name": "Data Manager",
+      "description": "数据管理员"
+    }
+  },
+  {
+    "name": "DMM",
+    "content": {
+      "full_name": "Data Management Manager",
+      "description": "数据管理经理"
+    }
+  },
+  {
+    "name": "DMP",
+    "content": {
+      "full_name": "Data Management Plan",
+      "description": "数据管理计划"
+    }
+  },
+  {
+    "name": "DMR",
+    "content": {
+      "full_name": "Data Management Report",
+      "description": "数据管理报告"
     }
   },
   {
@@ -611,20 +625,6 @@
     }
   },
   {
-    "name": "PI",
-    "content": {
-      "full_name": "Principal Investigator",
-      "description": "主要研究者"
-    }
-  },
-  {
-    "name": "PM",
-    "content": {
-      "full_name": "Project Manager",
-      "description": "临床研究项目经理"
-    }
-  },
-  {
     "name": "H&E",
     "content": {
       "full_name": "Hematoxylin-Eosin",
@@ -636,13 +636,6 @@
     "content": {
       "full_name": "Hyaluronic Acid",
       "description": "透明质酸"
-    }
-  },
-  {
-    "name": "BST",
-    "content": {
-      "full_name": "Biostatistician",
-      "description": "生物统计师"
     }
   },
   {
@@ -1217,6 +1210,13 @@
     }
   },
   {
+    "name": "PI",
+    "content": {
+      "full_name": "Principal Investigator",
+      "description": "主要研究者"
+    }
+  },
+  {
     "name": "PIVH",
     "content": {
       "full_name": "Periventricular-Intraventricular Hemorrhage",
@@ -1228,6 +1228,13 @@
     "content": {
       "full_name": "Platelet",
       "description": "血小板"
+    }
+  },
+  {
+    "name": "PM",
+    "content": {
+      "full_name": "Project Manager",
+      "description": "临床研究项目经理"
     }
   },
   {
@@ -1466,37 +1473,17 @@
     }
   },
   {
-    "name": "SP",
-    "content": {
-      "full_name": "Sponsor",
-      "description": "申办方"
-    }
-  },{
-    "name": "UAT",
-    "content": {
-      "full_name": "User Acceptance Test",
-      "description": "用户接受测试"
-    }
-  },
-  {
-    "name": "Sub-I",
-    "content": {
-      "full_name": "Subject Investigator",
-      "description": "助理研究者"
-    }
-  },
-  {
     "name": "SDV",
     "content": [
       {
-      "full_name": "Source Data Validation",
-      "description": "原始数据核查"
-    },
-    {
-      "full_name": "Source Data Verification",
-      "description": "原始数据核查"
-    }
-  ]
+        "full_name": "Source Data Validation",
+        "description": "原始数据核查"
+      },
+      {
+        "full_name": "Source Data Verification",
+        "description": "原始数据核查"
+      }
+    ]
   },
   {
     "name": "SF",
@@ -1548,6 +1535,13 @@
     }
   },
   {
+    "name": "SP",
+    "content": {
+      "full_name": "Sponsor",
+      "description": "申办方"
+    }
+  },
+  {
     "name": "SS",
     "content": {
       "full_name": "Safety Set",
@@ -1559,6 +1553,13 @@
     "content": {
       "full_name": "Serum Total Bilirubin",
       "description": "血清总胆红素"
+    }
+  },
+  {
+    "name": "Sub-I",
+    "content": {
+      "full_name": "Subject Investigator",
+      "description": "助理研究者"
     }
   },
   {
@@ -1667,6 +1668,13 @@
     }
   },
   {
+    "name": "UAT",
+    "content": {
+      "full_name": "User Acceptance Test",
+      "description": "用户接受测试"
+    }
+  },
+  {
     "name": "UICC",
     "content": {
       "full_name": "Union for International Cancer Control",
@@ -1741,13 +1749,6 @@
     "content": {
       "full_name": "Wrinkle Severity Rating Scale",
       "description": "皱纹严重程度分级"
-    }
-  },
-  {
-    "name": "CRC",
-    "content": {
-      "full_name": "Clinical Research Coordinator",
-      "description": "临床协调员"
     }
   }
 ]
