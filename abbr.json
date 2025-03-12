@@ -116,15 +116,15 @@
   {
     "name": "B-TURP",
     "content": {
-      "full_name": "Benign Prostatic Hyperplasia",
-      "description": "良性前列腺增生"
+      "full_name": "Bipolar Transurethral Resection of the Prostate",
+      "description": "双极经尿道前列腺电切术"
     }
   },
   {
     "name": "BPH",
     "content": {
-      "full_name": "Bipolar Transurethral Resection of the Prostate",
-      "description": "双极经尿道前列腺电切术"
+      "full_name": "Benign Prostatic Hyperplasia",
+      "description": "良性前列腺增生"
     }
   },
   {
