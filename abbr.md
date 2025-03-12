@@ -18,8 +18,8 @@
 | AT        | Artificial Tears                                                                                       | 人工泪液                               |
 | ATC       | Anatomical Therapeutic Chemical                                                                        | 解剖、治疗、化学                       |
 | AUC       | Area Under Curve                                                                                       | 曲线下面积                             |
-| B-TURP    | Benign Prostatic Hyperplasia                                                                           | 良性前列腺增生                         |
-| BPH       | Bipolar Transurethral Resection of the Prostate                                                        | 双极经尿道前列腺电切术                 |
+| B-TURP    | Bipolar Transurethral Resection of the Prostate                                                        | 双极经尿道前列腺电切术                 |
+| BPH       | Benign Prostatic Hyperplasia                                                                           | 良性前列腺增生                         |
 | BST       | Biostatistician                                                                                        | 生物统计师                             |
 | BTS       | Beam Transport System                                                                                  | 束流传输系统                           |
 | BUN       | Blood Urea Nitrogen                                                                                    | 尿素氮                                 |
