@@ -18,6 +18,8 @@
 | AT        | Artificial Tears                                                                                       | 人工泪液                               |
 | ATC       | Anatomical Therapeutic Chemical                                                                        | 解剖、治疗、化学                       |
 | AUC       | Area Under Curve                                                                                       | 曲线下面积                             |
+| B-TURP    | Benign Prostatic Hyperplasia                                                                           | 良性前列腺增生                         |
+| BPH       | Bipolar Transurethral Resection of the Prostate                                                        | 双极经尿道前列腺电切术                 |
 | BST       | Biostatistician                                                                                        | 生物统计师                             |
 | BTS       | Beam Transport System                                                                                  | 束流传输系统                           |
 | BUN       | Blood Urea Nitrogen                                                                                    | 尿素氮                                 |
@@ -120,6 +122,7 @@
 | IMRT      | Intensity Modulated Radiation Therapy                                                                  | 适形调强放射治疗                       |
 | INR       | International Normalized Ratio                                                                         | 国际标准化比值                         |
 | IPD       | Important Protocol Deviations                                                                          | 重要方案偏离                           |
+| IPSS      | International Prostate Symptoms Score                                                                  | 国际前列腺症状评分                     |
 | IST       | Industry-Sponsored Clinical Trial                                                                      | 医药企业发起的药物临床试验             |
 | ITT       | Intention-To-Treat                                                                                     | 意向性治疗                             |
 | iUS       | Intraoperative Ultrasound                                                                              | 术中超声                               |
@@ -136,9 +139,11 @@
 | LGG       | Low-Grade Glioma                                                                                       | 低级别胶质瘤                           |
 | LLT       | Lowest Level Terms                                                                                     | 低位语                                 |
 | LOCF      | Last Observation Carried Forward                                                                       | 末次观测值结转                         |
+| LUTS      | Lower Urinary Tract Symptoms                                                                           | 下尿路症状                             |
 | LVEDV     | Left Ventricular End-Diastolic Volume                                                                  | 舒张末期容积                           |
 | LVEF      | Left Ventricular Ejection Fraction                                                                     | 左心室射血分数                         |
 | LVESV     | Left Ventricular End-Systolic Volume                                                                   | 收缩末期容积                           |
+| M-TURP    | Monopolar Transurethral Resection of the Prostate                                                      | 单极经尿道前列腺电切术                 |
 | Mb        | Myoglobin                                                                                              | 肌红蛋白                               |
 | MCI       | Mild Cognitive Impairment                                                                              | 轻度认知功能障碍                       |
 | MDT       | Multidisciplinary Treatment                                                                            | 多学科综合治疗                         |
@@ -193,6 +198,7 @@
 | PTCOG     | Particle Therapy Co-Operative Group                                                                    | 国际粒子治疗协作委员会                 |
 | PTV       | Planning Target Volume                                                                                 | 计划靶区                               |
 | PVI       | Pulmonary Vein Isolation                                                                               | 肺静脉隔离                             |
+| PVR       | Post-Void Residual                                                                                     | 残余尿量                               |
 | QA        | Quality Assurance                                                                                      | 质量保证                               |
 | QoL       | Quality of Life                                                                                        | 生活质量                               |
 | RA        | Rheumatoid Arthritis                                                                                   | 类风湿性关节炎                         |
@@ -239,6 +245,7 @@
 | TSH       | Thyroid Stlmulating Hormone                                                                            | 促甲状腺素                             |
 | TT        | Thrombin Time                                                                                          | 凝血酶时间                             |
 | TTE       | Transthoracic Echocardiogram                                                                           | 经胸超声心动图                         |
+| TURP      | Transurethral Resection of the Prostate                                                                | 经尿道前列腺电切术                     |
 | TV        | Treated Volume                                                                                         | 治疗区                                 |
 | UAT       | User Acceptance Test                                                                                   | 用户接受测试                           |
 | UICC      | Union for International Cancer Control                                                                 | 国际抗癌联盟                           |
