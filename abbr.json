@@ -114,6 +114,20 @@
     }
   },
   {
+    "name": "B-TURP",
+    "content": {
+      "full_name": "Benign Prostatic Hyperplasia",
+      "description": "良性前列腺增生"
+    }
+  },
+  {
+    "name": "BPH",
+    "content": {
+      "full_name": "Bipolar Transurethral Resection of the Prostate",
+      "description": "双极经尿道前列腺电切术"
+    }
+  },
+  {
     "name": "BST",
     "content": {
       "full_name": "Biostatistician",
@@ -646,52 +660,10 @@
     }
   },
   {
-    "name": "BPH",
-    "content": {
-      "full_name": "Bipolar Transurethral Resection of the Prostate",
-      "description": "双极经尿道前列腺电切术"
-    }
-  },
-  {
-    "name": "M-TURP",
-    "content": {
-      "full_name": "Monopolar Transurethral Resection of the Prostate",
-      "description": "单极经尿道前列腺电切术"
-    }
-  },
-  {
-    "name": "B-TURP",
-    "content": {
-      "full_name": "Benign Prostatic Hyperplasia",
-      "description": "良性前列腺增生"
-    }
-  },
-  {
-    "name": "LUTS",
-    "content": {
-      "full_name": "Lower Urinary Tract Symptoms",
-      "description": "下尿路症状"
-    }
-  },
-  {
-    "name": "PVR",
-    "content": {
-      "full_name": "Post-void Residual",
-      "description": "残余尿量"
-    }
-  },
-  {
     "name": "HBV",
     "content": {
       "full_name": "Hepatitis Virus B",
       "description": "乙型肝炎病毒"
-    }
-  },
-  {
-    "name": "TURP",
-    "content": {
-      "full_name": "Transurethral Resection of the Prostate",
-      "description": "经尿道前列腺电切术"
     }
   },
   {
@@ -870,6 +842,13 @@
     }
   },
   {
+    "name": "IPSS",
+    "content": {
+      "full_name": "International Prostate Symptoms Score",
+      "description": "国际前列腺症状评分"
+    }
+  },
+  {
     "name": "IST",
     "content": {
       "full_name": "Industry-Sponsored Clinical Trial",
@@ -984,6 +963,13 @@
     }
   },
   {
+    "name": "LUTS",
+    "content": {
+      "full_name": "Lower Urinary Tract Symptoms",
+      "description": "下尿路症状"
+    }
+  },
+  {
     "name": "LVEDV",
     "content": {
       "full_name": "Left Ventricular End-Diastolic Volume",
@@ -1002,6 +988,13 @@
     "content": {
       "full_name": "Left Ventricular End-Systolic Volume",
       "description": "收缩末期容积"
+    }
+  },
+  {
+    "name": "M-TURP",
+    "content": {
+      "full_name": "Monopolar Transurethral Resection of the Prostate",
+      "description": "单极经尿道前列腺电切术"
     }
   },
   {
@@ -1382,6 +1375,13 @@
     }
   },
   {
+    "name": "PVR",
+    "content": {
+      "full_name": "Post-Void Residual",
+      "description": "残余尿量"
+    }
+  },
+  {
     "name": "QA",
     "content": {
       "full_name": "Quality Assurance",
@@ -1703,10 +1703,10 @@
     }
   },
   {
-    "name": "IPSS",
+    "name": "TURP",
     "content": {
-      "full_name": "International Prostate Symptoms Score",
-      "description": "国际前列腺症状评分"
+      "full_name": "Transurethral Resection of the Prostate",
+      "description": "经尿道前列腺电切术"
     }
   },
   {
