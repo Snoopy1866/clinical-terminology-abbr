@@ -44,6 +44,13 @@
     }
   },
   {
+    "name": "AI",
+    "content": {
+      "full_name": "Artificial Intelligence",
+      "description": "人工智能"
+    }
+  },
+  {
     "name": "AIMS",
     "content": {
       "full_name": "Alberta Infant Motor Scale",
@@ -125,19 +132,6 @@
     "content": {
       "full_name": "Benign Prostatic Hyperplasia",
       "description": "良性前列腺增生"
-    }
-  },{
-    "name": "AI",
-    "content": {
-      "full_name": "Artificial Intelligence",
-      "description": "人工智能"
-    }
-  },
-  {
-    "name": "MRMC",
-    "content": {
-      "full_name": "Multiple reader multiple case",
-      "description": "多阅片者多病例设计"
     }
   },
   {
@@ -341,13 +335,6 @@
     "content": {
       "full_name": "Cardiac Troponin",
       "description": "肌钙蛋白"
-    }
-  },
-  {
-    "name": "ROC",
-    "content": {
-      "full_name": "Receiver Operating Characteristic",
-      "description": "受试者工作特征"
     }
   },
   {
@@ -1069,6 +1056,13 @@
     }
   },
   {
+    "name": "MRMC",
+    "content": {
+      "full_name": "Multiple Reader Multiple Case",
+      "description": "多阅片者多病例设计"
+    }
+  },
+  {
     "name": "MRU",
     "content": {
       "full_name": "Magnetic Resonance Urography",
@@ -1448,6 +1442,13 @@
     "content": {
       "full_name": "Rheumatoid Factor",
       "description": "类风湿因子"
+    }
+  },
+  {
+    "name": "ROC",
+    "content": {
+      "full_name": "Receiver Operating Characteristic",
+      "description": "受试者工作特征"
     }
   },
   {

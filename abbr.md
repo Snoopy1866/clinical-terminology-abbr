@@ -8,6 +8,7 @@
 | ADL       | Activities of Daily Living                                                                             | 工具性日常活动                         |
 | AE        | Adverse Events                                                                                         | 不良事件                               |
 | AF        | Atrial Fibrillation                                                                                    | 心房颤动                               |
+| AI        | Artificial Intelligence                                                                                | 人工智能                               |
 | AIMS      | Alberta Infant Motor Scale                                                                             | Alberta 婴儿运动量表                   |
 | AJCC      | American Joint Committee on Cancer                                                                     | 美国癌症联合委员会                     |
 | ALB       | Serum Albumin                                                                                          | 血清白蛋白                             |
@@ -151,6 +152,7 @@
 | MMSE      | Mini-Mental State Examination                                                                          | 简易精神状态评价量表                   |
 | MOCA      | Montreal Cognitive Assessment                                                                          | 蒙特利尔认知评估表                     |
 | MRI       | Magnetic Resonance Imaging                                                                             | 磁共振成像                             |
+| MRMC      | Multiple Reader Multiple Case                                                                          | 多阅片者多病例设计                     |
 | MRU       | Magnetic Resonance Urography                                                                           | 磁共振泌尿系水成像                     |
 | MSTS      | The Musculoskeletal Tumor Society                                                                      | 世界骨与软组织肿瘤协会                 |
 | NBNA      | Neonatal Behavioral Neurological Assessment                                                            | 新生儿神经行为测定                     |
@@ -206,6 +208,7 @@
 | RBE       | Relative Biological Effectiveness                                                                      | 相对生物学效应                         |
 | RECIST    | Response Evaluation Criteria in Solid Tumors                                                           | 实体肿瘤的疗效评价标准                 |
 | RF        | Rheumatoid Factor                                                                                      | 类风湿因子                             |
+| ROC       | Receiver Operating Characteristic                                                                      | 受试者工作特征                         |
 | ROM       | Range of Motion                                                                                        | 活动度                                 |
 | ROS       | Reactive Oxygen Species                                                                                | 活性氧                                 |
 | RTOG      | Radiation Therapy Oncology Group                                                                       | 放射肿瘤协作组                         |
