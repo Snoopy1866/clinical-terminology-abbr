@@ -107,20 +107,6 @@
     }
   },
   {
-    "name": "RES",
-    "content": {
-      "full_name": "Response Evaluable Set",
-      "description": "疗效可分析集"
-    }
-  },
-  {
-    "name": "RNA",
-    "content": {
-      "full_name": "Ribonucleic Acid",
-      "description": "核糖核酸"
-    }
-  },
-  {
     "name": "ATC",
     "content": {
       "full_name": "Anatomical Therapeutic Chemical",
@@ -1452,10 +1438,24 @@
     }
   },
   {
+    "name": "RES",
+    "content": {
+      "full_name": "Response Evaluable Set",
+      "description": "疗效可分析集"
+    }
+  },
+  {
     "name": "RF",
     "content": {
       "full_name": "Rheumatoid Factor",
       "description": "类风湿因子"
+    }
+  },
+  {
+    "name": "RNA",
+    "content": {
+      "full_name": "Ribonucleic Acid",
+      "description": "核糖核酸"
     }
   },
   {
