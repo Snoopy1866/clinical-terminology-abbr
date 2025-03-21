@@ -107,6 +107,20 @@
     }
   },
   {
+    "name": "RES",
+    "content": {
+      "full_name": "Response Evaluable Set",
+      "description": "疗效可分析集"
+    }
+  },
+  {
+    "name": "RNA",
+    "content": {
+      "full_name": "Ribonucleic Acid",
+      "description": "核糖核酸"
+    }
+  },
+  {
     "name": "ATC",
     "content": {
       "full_name": "Anatomical Therapeutic Chemical",
@@ -1434,7 +1448,7 @@
     "name": "RECIST",
     "content": {
       "full_name": "Response Evaluation Criteria in Solid Tumors",
-      "description": "实体肿瘤的疗效评价标准"
+      "description": "实体瘤疗效评价标准"
     }
   },
   {
