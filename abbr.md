@@ -206,8 +206,10 @@
 | RA        | Rheumatoid Arthritis                                                                                   | 类风湿性关节炎                         |
 | RBC       | Red Blood Cell                                                                                         | 红细胞                                 |
 | RBE       | Relative Biological Effectiveness                                                                      | 相对生物学效应                         |
-| RECIST    | Response Evaluation Criteria in Solid Tumors                                                           | 实体肿瘤的疗效评价标准                 |
+| RECIST    | Response Evaluation Criteria in Solid Tumors                                                           | 实体瘤疗效评价标准                     |
+| RES       | Response Evaluable Set                                                                                 | 疗效可分析集                           |
 | RF        | Rheumatoid Factor                                                                                      | 类风湿因子                             |
+| RNA       | Ribonucleic Acid                                                                                       | 核糖核酸                               |
 | ROC       | Receiver Operating Characteristic                                                                      | 受试者工作特征                         |
 | ROM       | Range of Motion                                                                                        | 活动度                                 |
 | ROS       | Reactive Oxygen Species                                                                                | 活性氧                                 |
