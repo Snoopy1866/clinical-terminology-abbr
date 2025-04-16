@@ -42,7 +42,7 @@
 | CRA       | Clinical Research Associate                                                                            | 临床监查员                             |
 | CRC       | Clinical Research Coordinator                                                                          | 临床协调员                             |
 | CRF       | Case Report Form                                                                                       | 病例报告表                             |
-| CRO       | Clinical Research Coordinator                                                                          | 合同研究组织                           |
+| CRO       | Contract Research Coordinator                                                                          | 合同研究组织                           |
 | CRP       | C-Reactive Protein                                                                                     | C 反应蛋白                             |
 | CS        | Clinically Significant                                                                                 | 有临床意义                             |
 | CSWT      | Cardiac Shock Wave Therapy                                                                             | 心脏体外冲击波治疗                     |
